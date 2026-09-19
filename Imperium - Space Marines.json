@@ -7,7 +7,7 @@
     "gameSystemId": "sys-352e-adc2-7639-d610",
     "gameSystemRevision": 1,
     "library": false,
-    "revision": 17,
+    "revision": 18,
     "type": "catalogue",
     "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
     "catalogueLinks": [
@@ -78786,7 +78786,7 @@
             "name": "Gladius Task Force",
             "id": "d2dc-693e-b491-b16d",
             "collective": false,
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "page": 2,
             "type": "upgrade",
@@ -78820,7 +78820,7 @@
           {
             "name": "Unforgiven Task Force",
             "id": "3caf-c168-c372-51b1",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Take and Hold", "id": "8b35-4595-9f63-1ae4", "primary": false, "targetId": "1cc1-f11a-4e8f-1bcc"}],
@@ -78857,7 +78857,7 @@
           {
             "name": "Black Spear Task Force",
             "id": "4459-12f0-bc-142b",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [
@@ -78903,7 +78903,7 @@
           {
             "name": "Liberator Assault Group",
             "id": "5ff-1ac3-bc73-8273",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [
@@ -78943,7 +78943,7 @@
           {
             "name": "Anvil Siege Force",
             "id": "b7d2-99c0-a2ed-3dce",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Take and Hold", "id": "bf8f-5503-1568-c377", "hidden": false, "primary": false, "targetId": "1cc1-f11a-4e8f-1bcc"}],
@@ -78972,7 +78972,7 @@
           {
             "name": "Ironstorm Spearhead",
             "id": "aa86-1617-4029-fcd7",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Take and Hold", "id": "094c-fe7d-9e07-350a", "primary": false, "targetId": "1cc1-f11a-4e8f-1bcc"}],
@@ -79001,7 +79001,7 @@
           {
             "name": "Firestorm Assault Force",
             "id": "abb4-dc89-4e0-9150",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Priority Assets", "id": "03e9-f8e3-d02f-584b", "primary": false, "targetId": "0936-9767-1cc7-52ae"}],
@@ -79030,7 +79030,7 @@
           {
             "name": "Stormlance Task Force",
             "id": "50ed-e07c-8f6b-b035",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [
@@ -79115,7 +79115,7 @@
           {
             "name": "Vanguard Spearhead",
             "id": "cdda-2bc8-a746-80f",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Reconnaissance", "id": "e88e-903e-f0e4-8055", "hidden": false, "primary": false, "targetId": "b4a7-5083-fe94-4d24"}],
@@ -79144,7 +79144,7 @@
           {
             "name": "1st Company Task Force",
             "id": "5d64-4100-80e-c8f3",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Purge the Foe", "id": "3469-7704-7974-41f4", "primary": false, "targetId": "6fe0-3dbe-f7e0-10bb"}],
@@ -79181,7 +79181,7 @@
           {
             "name": "Inner Circle Task Force",
             "id": "a141-49c8-fd84-4c6d",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Priority Assets", "id": "30c0-d48e-958b-8e4e", "primary": false, "targetId": "0936-9767-1cc7-52ae"}],
@@ -79218,7 +79218,7 @@
           {
             "name": "Company of Hunters",
             "id": "41e6-d47c-5e68-e066",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Disruption", "id": "e120-86f6-4032-2347", "primary": false, "targetId": "ecf8-cf72-7d5b-1b5b"}],
@@ -79264,7 +79264,7 @@
           {
             "name": "The Lost Brethren",
             "id": "9d32-d514-00a8-6423",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [
@@ -79307,7 +79307,7 @@
           {
             "name": "The Angelic Host",
             "id": "657c-469d-679e-f3aa",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Disruption", "id": "7c5e-974b-47ab-66a0", "primary": false, "targetId": "ecf8-cf72-7d5b-1b5b"}],
@@ -79344,7 +79344,7 @@
           {
             "name": "Lion's Blade Task Force",
             "id": "bef5-925f-b143-d219",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Purge the Foe", "id": "8169-6a33-1e07-d9f8", "primary": false, "targetId": "6fe0-3dbe-f7e0-10bb"}],
@@ -79381,7 +79381,7 @@
           {
             "name": "Librarius Conclave",
             "id": "ce39-a420-4206-827c",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Reconnaissance", "id": "cee9-648f-ddb0-5e30", "hidden": false, "primary": false, "targetId": "b4a7-5083-fe94-4d24"}],
@@ -79418,7 +79418,7 @@
           {
             "name": "Wrathful Procession",
             "id": "1242-7b3f-a47e-503a",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Take and Hold", "id": "80dd-b079-baf1-8ed2", "primary": false, "targetId": "1cc1-f11a-4e8f-1bcc"}],
@@ -79455,7 +79455,7 @@
           {
             "name": "Champions of Fenris",
             "id": "afb4-59c7-fa93-55f6",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Priority Assets", "id": "e30b-0f75-233a-28c7", "primary": false, "targetId": "0936-9767-1cc7-52ae"}],
@@ -79495,7 +79495,7 @@
           {
             "name": "Angelic Inheritors",
             "id": "dcc7-f9de-d4f2-69d0",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [
@@ -79552,7 +79552,7 @@
           {
             "name": "Wrath of the Rock",
             "id": "9d23-833a-17cb-2d7d",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [
@@ -79592,7 +79592,7 @@
           {
             "name": "Saga of the Hunter",
             "id": "31c2-3bbc-d0b2-ba92",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Disruption", "id": "72ea-1aa0-8113-d5e5", "primary": false, "targetId": "ecf8-cf72-7d5b-1b5b"}],
@@ -79629,7 +79629,7 @@
           {
             "name": "Saga of the Bold",
             "id": "41dc-6769-c30c-b96c",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Priority Assets", "id": "3321-25f5-deed-56c3", "primary": false, "targetId": "0936-9767-1cc7-52ae"}],
@@ -79666,7 +79666,7 @@
           {
             "name": "Saga of the Beastslayer",
             "id": "98ed-f58a-3e6e-63a6",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Purge the Foe", "id": "5b23-52ee-ac12-dfba", "primary": false, "targetId": "6fe0-3dbe-f7e0-10bb"}],
@@ -79703,7 +79703,7 @@
           {
             "name": "Companions of Vehemence",
             "id": "9d80-7508-5cd0-2f9e",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Purge the Foe", "id": "2727-4f81-c874-28fe", "primary": false, "targetId": "6fe0-3dbe-f7e0-10bb"}],
@@ -79740,7 +79740,7 @@
           {
             "name": "Vindication Task Force",
             "id": "f148-3273-e98f-427a",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Priority Assets", "id": "ebf8-6ba0-1e1e-67d2", "primary": false, "targetId": "0936-9767-1cc7-52ae"}],
@@ -79777,7 +79777,7 @@
           {
             "name": "Godhammer Assault Force",
             "id": "b6cd-9baf-8351-8dec",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Purge the Foe", "id": "d3e3-460e-57ec-77d7", "primary": false, "targetId": "6fe0-3dbe-f7e0-10bb"}],
@@ -79814,7 +79814,7 @@
           {
             "name": "Forgefather's Seekers",
             "id": "e073-8fe8-5b59-48f0",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Priority Assets", "id": "59a3-246e-574e-9d90", "primary": false, "targetId": "0936-9767-1cc7-52ae"}],
@@ -79851,7 +79851,7 @@
           {
             "name": "Emperor's Shield",
             "id": "1dea-4c70-8d4d-3415",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Purge the Foe", "id": "36d7-d027-d9c3-3de9", "primary": false, "targetId": "6fe0-3dbe-f7e0-10bb"}],
@@ -79891,7 +79891,7 @@
           {
             "name": "Shadowmark Talon",
             "id": "dd81-2af4-e7d9-bd07",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Disruption", "id": "7df7-393b-0b8f-252f", "hidden": false, "primary": false, "targetId": "ecf8-cf72-7d5b-1b5b"}],
@@ -79928,7 +79928,7 @@
           {
             "name": "Hammer of Avernii",
             "id": "2496-d271-a92f-d1c0",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Purge the Foe", "id": "882c-f111-a55c-e055", "primary": false, "targetId": "6fe0-3dbe-f7e0-10bb"}],
@@ -79965,7 +79965,7 @@
           {
             "name": "Spearpoint Task Force",
             "id": "0256-e74f-0e54-3e45",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Disruption", "id": "dc7c-e363-e266-d4e0", "hidden": false, "primary": false, "targetId": "ecf8-cf72-7d5b-1b5b"}],
@@ -80002,7 +80002,7 @@
           {
             "name": "Blade of Ultramar",
             "id": "6d9d-6462-1738-6bb3",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [
@@ -80042,7 +80042,7 @@
           {
             "name": "Saga of the Great Wolf",
             "id": "bc26-5cb8-f5fb-2760",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Take and Hold", "id": "249c-0a16-b01d-788c", "primary": false, "targetId": "1cc1-f11a-4e8f-1bcc"}],
@@ -80079,7 +80079,7 @@
           {
             "name": "Rage-Cursed Onslaught",
             "id": "d8e6-a4b2-c15f-49e2",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [
@@ -80120,7 +80120,7 @@
           {
             "name": "Bastion Task Force",
             "id": "8884-ddf9-a44a-ec7a",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Take and Hold", "id": "0cb4-2f80-4576-30b3", "hidden": false, "primary": false, "targetId": "1cc1-f11a-4e8f-1bcc"}],
@@ -80168,7 +80168,7 @@
           {
             "name": "Orbital Assault Force",
             "id": "72a9-ef68-b384-1421",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Take and Hold", "id": "3f14-71cd-f3b2-a433", "hidden": false, "primary": false, "targetId": "1cc1-f11a-4e8f-1bcc"}],
@@ -80200,7 +80200,7 @@
           {
             "name": "Reclamation Force",
             "id": "0b71-29ad-7485-83bd",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Take and Hold", "id": "3457-67c2-02e6-8c0a", "hidden": false, "primary": false, "targetId": "1cc1-f11a-4e8f-1bcc"}],
@@ -80240,7 +80240,7 @@
           {
             "name": "Ceramite Sentinels",
             "id": "3000-9a97-6f30-5a00",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [
@@ -80272,7 +80272,7 @@
           {
             "name": "Headhunter Task Force",
             "id": "cf4f-5c50-4a22-6960",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Priority Assets", "id": "5e2a-6f53-655d-c645", "hidden": false, "primary": false, "targetId": "0936-9767-1cc7-52ae"}],
@@ -80301,7 +80301,7 @@
           {
             "name": "Fulguris Task Force",
             "id": "0888-6943-a4db-4826",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Reconnaissance", "id": "0576-50d7-cf36-b3b1", "primary": false, "targetId": "b4a7-5083-fe94-4d24"}],
@@ -80330,7 +80330,7 @@
           {
             "name": "Subversion Assets",
             "id": "a8c0-4163-5195-a680",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Disruption", "id": "58b4-16e2-ac36-1308", "primary": false, "targetId": "ecf8-cf72-7d5b-1b5b"}],
@@ -80359,7 +80359,7 @@
           {
             "name": "The Living Miracle",
             "id": "7bd3-602e-280c-ecad",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Disruption", "id": "250f-a6a6-6f93-d790", "primary": false, "targetId": "ecf8-cf72-7d5b-1b5b"}],
@@ -80396,7 +80396,7 @@
           {
             "name": "Marshal's Household",
             "id": "e533-c51a-5949-a579",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Priority Assets", "id": "b832-ff2f-f151-0c34", "primary": false, "targetId": "0936-9767-1cc7-52ae"}],
@@ -80433,7 +80433,7 @@
           {
             "name": "Encarmine Speartip",
             "id": "b611-6312-f2d4-5e13",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Disruption", "id": "0700-9a8c-e868-8d6d", "primary": false, "targetId": "ecf8-cf72-7d5b-1b5b"}],
@@ -80470,7 +80470,7 @@
           {
             "name": "Legacy of Grace",
             "id": "ccdf-f7f2-2317-a51f",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [
@@ -80510,7 +80510,7 @@
           {
             "name": "Wrath of the Doomed",
             "id": "a37c-40dc-1ecb-12f7",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [
@@ -80550,7 +80550,7 @@
           {
             "name": "Dark Age Arsenal",
             "id": "6357-b8d4-0b19-41a8",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Priority Assets", "id": "f817-4243-55b9-0d00", "primary": false, "targetId": "0936-9767-1cc7-52ae"}],
@@ -80594,7 +80594,7 @@
           {
             "name": "Darkflight Pursuit",
             "id": "64a6-9332-de28-21a9",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Reconnaissance", "id": "71c4-fb17-d51f-4ef4", "primary": false, "targetId": "b4a7-5083-fe94-4d24"}],
@@ -80651,7 +80651,7 @@
           {
             "name": "Interrogation Conclave",
             "id": "03a7-d965-5d2c-e346",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Take and Hold", "id": "8576-c830-3ede-24ab", "primary": false, "targetId": "1cc1-f11a-4e8f-1bcc"}],
@@ -80688,7 +80688,7 @@
           {
             "name": "Legends of Saga and Song",
             "id": "86b1-dc36-0d18-477a",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Take and Hold", "id": "3d47-5c20-f8af-f978", "primary": false, "targetId": "1cc1-f11a-4e8f-1bcc"}],
@@ -80725,7 +80725,7 @@
           {
             "name": "Veterans of the Fang",
             "id": "a2b8-4100-0c51-29af",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Disruption", "id": "f11c-a3d1-7982-21d5", "primary": false, "targetId": "ecf8-cf72-7d5b-1b5b"}],
@@ -80762,7 +80762,7 @@
           {
             "name": "Vengeful Hosts",
             "id": "6619-187e-e309-3313",
-            "hidden": false,
+            "hidden": true,
             "import": true,
             "type": "upgrade",
             "categoryLinks": [{"name": "Take and Hold", "id": "939b-cf4e-7722-e020", "primary": false, "targetId": "1cc1-f11a-4e8f-1bcc"}],
@@ -80785,6 +80785,698 @@
                 "id": "e07c-7099-bd2b-ae63",
                 "description": "In a turn a friendly ADEPTUS ASTARTES FLY INFANTRY unit made an ingress/charge move, that unit’s attacks can re-roll hit rolls of 1.",
                 "hidden": false
+              }
+            ]
+          },
+          {
+            "name": "Gladius Task Force",
+            "id": "0268-5999-40f1-48f8",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "categoryLinks": [
+              {"name": "Priority Assets", "id": "3345-da8a-d159-d7f6", "hidden": false, "primary": false, "targetId": "0936-9767-1cc7-52ae"},
+              {"name": "Take and Hold", "id": "4bdb-45b9-1cab-0676", "hidden": false, "primary": false, "targetId": "1cc1-f11a-4e8f-1bcc"},
+              {"name": "3DP Detachment", "id": "4d30-4fd5-81e3-7727", "hidden": false, "primary": false, "targetId": "7d80-2de5-816e-9d2b"}
+            ],
+            "constraints": [
+              {"id": "557b-7973-44f7-9fd5", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "costs": [
+              {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 0},
+              {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+              {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+              {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+              {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+              {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+              {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": 3},
+              {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 0},
+              {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+              {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0},
+              {"name": "pl", "typeId": "c5fb-5b9b-89f6-86c", "value": 0}
+            ],
+            "rules": [
+              {
+                "name": "Codex Discipline",
+                "id": "02e6-2018-5808-b003",
+                "description": "You can select one Combat Doctrine for a second time during the battle. (Normally, each Combat Doctrine can only be selected once per battle.)\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "hidden": false
+              }
+            ]
+          },
+          {
+            "name": "Assault Brethren",
+            "id": "2957-095e-0c8b-72ba",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "categoryLinks": [
+              {"name": "Take and Hold", "id": "e7be-5461-88d1-fdc2", "hidden": false, "primary": false, "targetId": "1cc1-f11a-4e8f-1bcc"}
+            ],
+            "constraints": [
+              {"id": "096f-8373-d096-615e", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "costs": [
+              {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 0},
+              {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+              {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+              {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+              {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+              {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+              {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": 1},
+              {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 0},
+              {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+              {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0},
+              {"name": "pl", "typeId": "c5fb-5b9b-89f6-86c", "value": 0}
+            ],
+            "rules": [
+              {
+                "name": "Assault Mastery",
+                "id": "b977-22f0-a6f8-2cf7",
+                "description": "You can select the Assault Doctrine one additional time during the battle.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "hidden": false
+              }
+            ]
+          },
+          {
+            "name": "Tactical Brethren",
+            "id": "4948-b231-3bc0-eaa3",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "categoryLinks": [
+              {"name": "Priority Assets", "id": "eac0-4af8-bb62-f84a", "hidden": false, "primary": false, "targetId": "0936-9767-1cc7-52ae"}
+            ],
+            "constraints": [
+              {"id": "c133-b92d-8d29-f591", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "costs": [
+              {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 0},
+              {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+              {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+              {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+              {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+              {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+              {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": 1},
+              {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 0},
+              {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+              {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0},
+              {"name": "pl", "typeId": "c5fb-5b9b-89f6-86c", "value": 0}
+            ],
+            "rules": [
+              {
+                "name": "Tactical Mastery",
+                "id": "0725-b794-4280-ea83",
+                "description": "You can select the Tactical Doctrine one additional time during the battle.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "hidden": false
+              }
+            ]
+          },
+          {
+            "name": "Devastator Brethren",
+            "id": "3b76-b70a-480b-ade3",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "categoryLinks": [
+              {"name": "Purge the Foe", "id": "1578-0978-d3e9-3079", "hidden": false, "primary": false, "targetId": "6fe0-3dbe-f7e0-10bb"}
+            ],
+            "constraints": [
+              {"id": "871e-9867-72fe-e7ee", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "costs": [
+              {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 0},
+              {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+              {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+              {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+              {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+              {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+              {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": 1},
+              {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 0},
+              {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+              {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0},
+              {"name": "pl", "typeId": "c5fb-5b9b-89f6-86c", "value": 0}
+            ],
+            "rules": [
+              {
+                "name": "Devastator Mastery",
+                "id": "dd5d-f5a3-3baa-5d05",
+                "description": "You can select the Devastator Doctrine one additional time during the battle.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "hidden": false
+              }
+            ]
+          },
+          {
+            "name": "Terminator Storm Force",
+            "id": "afe6-7909-c553-c46f",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "categoryLinks": [
+              {"name": "Priority Assets", "id": "bfcf-50fd-0ca1-761d", "hidden": false, "primary": false, "targetId": "0936-9767-1cc7-52ae"}
+            ],
+            "constraints": [
+              {"id": "ce0e-ca78-120b-52ed", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "costs": [
+              {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 0},
+              {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+              {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+              {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+              {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+              {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+              {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": 1},
+              {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 0},
+              {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+              {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0},
+              {"name": "pl", "typeId": "c5fb-5b9b-89f6-86c", "value": 0}
+            ],
+            "rules": [
+              {
+                "name": "Death Blow",
+                "id": "b33a-b249-56a1-4365",
+                "description": "**TERMINATOR** units from your army have +1 to Charge rolls.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "hidden": false
+              }
+            ]
+          },
+          {
+            "name": "Tacticus Attack Force",
+            "id": "b559-3bf0-25be-ae21",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "categoryLinks": [
+              {"name": "Take and Hold", "id": "fbe0-5a7c-981c-7d21", "hidden": false, "primary": false, "targetId": "1cc1-f11a-4e8f-1bcc"}
+            ],
+            "constraints": [
+              {"id": "8849-8b32-c304-fe29", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "costs": [
+              {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 0},
+              {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+              {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+              {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+              {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+              {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+              {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": 1},
+              {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 0},
+              {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+              {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0},
+              {"name": "pl", "typeId": "c5fb-5b9b-89f6-86c", "value": 0}
+            ],
+            "rules": [
+              {
+                "name": "Wrath of the Chapter",
+                "id": "d92d-b893-4e12-76c8",
+                "description": "**TACTICUS** units from your army can re-roll Advance rolls.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "hidden": false
+              }
+            ]
+          },
+          {
+            "name": "Tacticus Firestorm Force",
+            "id": "299f-07fa-eac4-9241",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "categoryLinks": [
+              {"name": "Priority Assets", "id": "99ff-f041-79ca-6b2c", "hidden": false, "primary": false, "targetId": "0936-9767-1cc7-52ae"}
+            ],
+            "constraints": [
+              {"id": "e376-9ffc-b98e-60c2", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "costs": [
+              {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 0},
+              {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+              {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+              {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+              {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+              {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+              {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": 1},
+              {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 0},
+              {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+              {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0},
+              {"name": "pl", "typeId": "c5fb-5b9b-89f6-86c", "value": 0}
+            ],
+            "rules": [
+              {
+                "name": "Codex Fire-Patterns",
+                "id": "425a-b5a3-6d4f-0385",
+                "description": "Each time a **TACTICUS** unit from your army makes a ranged attack with a weapon that has the [RAPID FIRE] ability, that ability applies at any range, not only when the target is within half range.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "hidden": false
+              }
+            ]
+          },
+          {
+            "name": "Phobos Shadow Force",
+            "id": "9685-b3e6-4a39-d54c",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "categoryLinks": [
+              {"name": "Disruption", "id": "5125-09ca-3b4b-cbcd", "hidden": false, "primary": false, "targetId": "ecf8-cf72-7d5b-1b5b"}
+            ],
+            "constraints": [
+              {"id": "9384-361e-98ca-812d", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "costs": [
+              {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 0},
+              {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+              {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+              {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+              {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+              {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+              {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": 1},
+              {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 0},
+              {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+              {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0},
+              {"name": "pl", "typeId": "c5fb-5b9b-89f6-86c", "value": 0}
+            ],
+            "rules": [
+              {
+                "name": "Shadow Masters",
+                "id": "6584-98cc-a25d-0f1b",
+                "description": "After a **PHOBOS** or **SCOUT SQUAD** unit from your army shoots, select one of the following:\n\n\n- That unit Remains Hidden.\n\n\n- That unit makes a Normal move of up to D6\". It cannot declare a charge this turn.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "hidden": false
+              }
+            ]
+          },
+          {
+            "name": "Phobos Shock Force",
+            "id": "7ac5-501a-c302-0364",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "categoryLinks": [
+              {"name": "Disruption", "id": "7951-0b26-809b-e129", "hidden": false, "primary": false, "targetId": "ecf8-cf72-7d5b-1b5b"}
+            ],
+            "constraints": [
+              {"id": "dc13-59af-f888-8996", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "costs": [
+              {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 0},
+              {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+              {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+              {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+              {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+              {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+              {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": 1},
+              {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 0},
+              {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+              {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0},
+              {"name": "pl", "typeId": "c5fb-5b9b-89f6-86c", "value": 0}
+            ],
+            "rules": [
+              {
+                "name": "Vanguard Ambushers",
+                "id": "0ea0-d63d-5f6d-a528",
+                "description": "At the end of your Movement phase, each Hidden **PHOBOS** unit from your army can re-roll Wound rolls of 1 until the end of the turn.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "hidden": false
+              }
+            ]
+          },
+          {
+            "name": "Gravis Linebreaker Force",
+            "id": "e3b4-3185-d96b-13ff",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "categoryLinks": [
+              {"name": "Take and Hold", "id": "1d58-e0e6-6939-e7d4", "hidden": false, "primary": false, "targetId": "1cc1-f11a-4e8f-1bcc"}
+            ],
+            "constraints": [
+              {"id": "376a-f2bc-605d-c928", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "costs": [
+              {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 0},
+              {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+              {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+              {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+              {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+              {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+              {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": 1},
+              {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 0},
+              {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+              {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0},
+              {"name": "pl", "typeId": "c5fb-5b9b-89f6-86c", "value": 0}
+            ],
+            "rules": [
+              {
+                "name": "Walking Fortress",
+                "id": "dc69-ebd8-62d3-82d8",
+                "description": "Each time a **GRAVIS** unit from your army makes a Normal move, until the end of the turn ranged weapons equipped by models in that unit lose the [HEAVY] ability and that unit has +1 to Hit rolls when making ranged attacks.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "hidden": false
+              }
+            ]
+          },
+          {
+            "name": "Gravis Siege Force",
+            "id": "49c2-73f6-1193-cdc1",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "categoryLinks": [
+              {"name": "Take and Hold", "id": "8437-5b09-536e-e753", "hidden": false, "primary": false, "targetId": "1cc1-f11a-4e8f-1bcc"}
+            ],
+            "constraints": [
+              {"id": "f851-9584-5568-8889", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "costs": [
+              {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 0},
+              {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+              {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+              {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+              {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+              {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+              {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": 1},
+              {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 0},
+              {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+              {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0},
+              {"name": "pl", "typeId": "c5fb-5b9b-89f6-86c", "value": 0}
+            ],
+            "rules": [
+              {
+                "name": "Indomitable Defence",
+                "id": "c732-7db2-1a8d-e77d",
+                "description": "Each time an attack targets a **GRAVIS** unit from your army while that unit is within range of an objective marker, if the Strength characteristic of that attack is greater than the Toughness characteristic of that unit, subtract 1 from the Wound roll.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "hidden": false
+              }
+            ]
+          },
+          {
+            "name": "Stormlance Task Force",
+            "id": "f7b5-4c1b-2609-49d0",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "categoryLinks": [
+              {"name": "Reconnaissance", "id": "c9df-ac62-3256-c86d", "hidden": false, "primary": false, "targetId": "b4a7-5083-fe94-4d24"}
+            ],
+            "constraints": [
+              {"id": "e664-8ede-1401-b0f7", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "costs": [
+              {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 0},
+              {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+              {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+              {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+              {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+              {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+              {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": 1},
+              {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 0},
+              {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+              {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0},
+              {"name": "pl", "typeId": "c5fb-5b9b-89f6-86c", "value": 0}
+            ],
+            "rules": [
+              {
+                "name": "Lightning-Fast Strike",
+                "id": "d8b5-9903-18e7-70af",
+                "description": "**MOUNTED** and **SPEEDER** units from your army have +2\" Move.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "hidden": false
+              }
+            ]
+          },
+          {
+            "name": "Ironclad Champions",
+            "id": "4c7b-341e-d43b-cdcd",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "categoryLinks": [
+              {"name": "Priority Assets", "id": "8f3a-183a-3821-4f88", "hidden": false, "primary": false, "targetId": "0936-9767-1cc7-52ae"}
+            ],
+            "constraints": [
+              {"id": "c23a-3de2-1e36-a9f3", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "costs": [
+              {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 0},
+              {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+              {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+              {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+              {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+              {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+              {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": 1},
+              {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 0},
+              {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+              {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0},
+              {"name": "pl", "typeId": "c5fb-5b9b-89f6-86c", "value": 0}
+            ],
+            "rules": [
+              {
+                "name": "Enduring Vengeance",
+                "id": "74e4-98bf-785b-a604",
+                "description": "Each time a **DREADNOUGHT** model from your army makes an attack, you can re-roll a Hit roll of 1.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "hidden": false
+              }
+            ]
+          },
+          {
+            "name": "Gauntlet Task Force",
+            "id": "c458-9e44-45fd-2c79",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "categoryLinks": [
+              {"name": "Reconnaissance", "id": "81ab-06ae-0d42-9bc4", "hidden": false, "primary": false, "targetId": "b4a7-5083-fe94-4d24"}
+            ],
+            "constraints": [
+              {"id": "00d5-8d17-5d58-de73", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "costs": [
+              {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 0},
+              {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+              {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+              {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+              {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+              {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+              {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": 1},
+              {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 0},
+              {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+              {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0},
+              {"name": "pl", "typeId": "c5fb-5b9b-89f6-86c", "value": 0}
+            ],
+            "rules": [
+              {
+                "name": "Combined Deployment",
+                "id": "a160-32db-3a82-5167",
+                "description": "Each time a **TRANSPORT** model from your army shoots, after those attacks have been resolved, you can select one enemy unit that was hit by them. That unit is Assailed until the end of the turn. Each time an **^^Adeptus Astartes^^** unit from your army that disembarked this turn makes an attack that targets an Assailed unit, that attack has the [SUSTAINED HITS 1] ability.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "hidden": false
+              }
+            ]
+          },
+          {
+            "name": "Ironstorm Spearhead",
+            "id": "9747-6259-881a-851b",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "categoryLinks": [
+              {"name": "Purge the Foe", "id": "ba7b-8815-c462-ee50", "hidden": false, "primary": false, "targetId": "6fe0-3dbe-f7e0-10bb"}
+            ],
+            "constraints": [
+              {"id": "05c6-edca-49be-3ffe", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "costs": [
+              {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 0},
+              {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+              {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+              {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+              {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+              {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+              {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": 1},
+              {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 0},
+              {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+              {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0},
+              {"name": "pl", "typeId": "c5fb-5b9b-89f6-86c", "value": 0}
+            ],
+            "rules": [
+              {
+                "name": "Ironstorm Auto-Targeters",
+                "id": "8e50-d318-902d-c052",
+                "description": "Each time a **VEHICLE** model from your army shoots, you can re-roll one Hit roll and one Wound roll.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "hidden": false
+              }
+            ]
+          },
+          {
+            "name": "Vow-sworn Crusaders",
+            "id": "748d-08ee-0ef4-09e9",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "categoryLinks": [
+              {"name": "Purge the Foe", "id": "8755-3017-c085-ad0b", "hidden": false, "primary": false, "targetId": "6fe0-3dbe-f7e0-10bb"}
+            ],
+            "constraints": [
+              {"id": "3300-151b-3340-26a8", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "costs": [
+              {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 0},
+              {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+              {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+              {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+              {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+              {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+              {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": 2},
+              {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 0},
+              {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+              {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0},
+              {"name": "pl", "typeId": "c5fb-5b9b-89f6-86c", "value": 0}
+            ],
+            "rules": [
+              {
+                "name": "Templar Vows",
+                "id": "4783-0b58-9565-4f3f",
+                "description": "At the start of the first battle round, select one of the following Vows. That Vow is active for **^^Adeptus Astartes^^** units from your army for the rest of the battle.\n\n\nABHOR THE WITCH, DESTROY THE WITCH\nMelee attacks made by those units against **PSYKER** units have the [PRECISION] and [LANCE] abilities.\n\n\nACCEPT ANY CHALLENGE, NO MATTER THE ODDS\nEach time a model in those units makes a melee attack against a target whose Toughness characteristic is greater than that model's Strength characteristic, add 1 to the Wound roll.\n\n\nUPHOLD THE HONOUR OF THE EMPEROR\n**INFANTRY** units Secure any objective marker they control at the end of your Movement phase, and can do so in a turn in which they Advanced or performed an Action.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "hidden": false
+              }
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "childId": "36d3-36bc-68dd-40ac",
+                    "childName": "Imperium - Adeptus Astartes - Black Templars",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "primary-catalogue",
+                    "shared": true,
+                    "type": "notInstanceOf",
+                    "value": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Fist of the God-Emperor",
+            "id": "a970-46ac-a3a2-5009",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "categoryLinks": [
+              {"name": "Take and Hold", "id": "0f07-4bb7-58be-ec5a", "hidden": false, "primary": false, "targetId": "1cc1-f11a-4e8f-1bcc"}
+            ],
+            "constraints": [
+              {"id": "00d1-d7fa-4215-f9e7", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "costs": [
+              {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 0},
+              {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+              {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+              {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+              {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+              {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+              {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": 1},
+              {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 0},
+              {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+              {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0},
+              {"name": "pl", "typeId": "c5fb-5b9b-89f6-86c", "value": 0}
+            ],
+            "rules": [
+              {
+                "name": "Purge and Sanctify",
+                "id": "3738-ea49-19e4-9595",
+                "description": "Each time a **CRUSADER SQUAD** unit from your army makes a Surge move, instead of selecting a Surge target you can select the closest objective marker. If you do, each model in that unit must end that move as close as possible to that objective marker, and that unit cannot end that move within Engagement Range of any enemy units.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "hidden": false
+              }
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "childId": "36d3-36bc-68dd-40ac",
+                    "childName": "Imperium - Adeptus Astartes - Black Templars",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "primary-catalogue",
+                    "shared": true,
+                    "type": "notInstanceOf",
+                    "value": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Marshal's Household",
+            "id": "4950-d1ff-1c8d-8add",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "type": "upgrade",
+            "categoryLinks": [
+              {"name": "Priority Assets", "id": "3b04-d850-4feb-0707", "hidden": false, "primary": false, "targetId": "0936-9767-1cc7-52ae"}
+            ],
+            "constraints": [
+              {"id": "7f0e-672d-9242-9297", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "costs": [
+              {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 0},
+              {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+              {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+              {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+              {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+              {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+              {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": 1},
+              {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 0},
+              {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+              {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0},
+              {"name": "pl", "typeId": "c5fb-5b9b-89f6-86c", "value": 0}
+            ],
+            "rules": [
+              {
+                "name": "Faith-fuelled Resolve",
+                "id": "1e39-006c-cc6c-7ff4",
+                "description": "While a **SWORD BRETHREN SQUAD** unit from your army is within range of an objective marker, models in that unit have +1 Attack in the Fight phase.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "hidden": false
+              }
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "childId": "36d3-36bc-68dd-40ac",
+                    "childName": "Imperium - Adeptus Astartes - Black Templars",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "primary-catalogue",
+                    "shared": true,
+                    "type": "notInstanceOf",
+                    "value": 1
+                  }
+                ]
               }
             ]
           }
@@ -91663,6 +92355,2444 @@
                     "typeId": "9cc3-6d83-4dd3-9b64",
                     "typeName": "Abilities",
                     "characteristics": [{"name": "Description", "$text": "ADEPTUS ASTARTES FLY INFANTRY model only. This model has the following weapon:", "typeId": "9b8f-694b-e5e-b573"}]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Gladius Task Force Enhancements",
+            "id": "a71d-c3c3-2768-0494",
+            "hidden": false,
+            "constraints": [
+              {"id": "b823-8efe-ccdb-f904", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "id": "cc65-cf5c-0fec-cc00",
+                    "childId": "0268-5999-40f1-48f8",
+                    "childName": "Gladius Task Force",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "lessThan",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Standard of the Emperor Ascendant",
+                "id": "5e6b-fb54-8244-e744",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "404f-b708-dcee-970b",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 25},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Standard of the Emperor Ascendant",
+                    "id": "92c6-2416-32a4-d16c",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**^^Adeptus Astartes^^ ANCIENT** model only. The bearer has +1 Objective Control and the Feel No Pain 5+ ability. Once per battle, at the start of any phase, the bearer's unit has +1 Attack until the end of that phase.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Laurels of Triumph",
+                "id": "ad82-611c-2a70-bb3a",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "6697-2374-1176-74fb",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 20},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Laurels of Triumph",
+                    "id": "b5c8-86ed-3e33-2f65",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**^^Adeptus Astartes^^** model only. Melee weapons equipped by the bearer have +1 Strength and improve their Armour Penetration characteristic by 1. While the Assault Doctrine is active for the bearer's unit, increase this to +2 Strength and improve Armour Penetration by 2 instead.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Adept of the Codex",
+                "id": "a4fa-4984-7343-4168",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "5033-a876-765e-4d53",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 20},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Adept of the Codex",
+                    "id": "6585-1361-8d7e-2c90",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**CAPTAIN** model only. The Tactical Doctrine is always active for the bearer's unit, in addition to any other Combat Doctrine that is active for it.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Artificer Armour",
+                "id": "af35-2bd9-15d2-fa22",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "1916-334d-5068-1a8f",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 15},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Artificer Armour",
+                    "id": "df2b-af15-cd13-c370",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**^^Adeptus Astartes^^** model only. The bearer has a Save characteristic of 2+ and the Feel No Pain 5+ ability.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Assault Brethren Enhancements",
+            "id": "21a5-0198-13b7-3d56",
+            "hidden": false,
+            "constraints": [
+              {"id": "4b84-a833-0c90-1a8f", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "id": "bffc-6334-20ce-f6ce",
+                    "childId": "2957-095e-0c8b-72ba",
+                    "childName": "Assault Brethren",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "lessThan",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Imperium's Sword",
+                "id": "c09c-87a7-0891-32f9",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "1ae3-9eb9-f3a5-4595",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 20},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Imperium's Sword",
+                    "id": "ced1-0c60-8dac-2c23",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**^^Adeptus Astartes^^** model only. The bearer is equipped with the following melee weapon: Imperium's Sword — A6, WS2+, S7, AP-3, D3.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Furious Assault",
+                "id": "cc0d-063b-a73d-2e33",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "3649-2f18-dc46-ce9c",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 3
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 10},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Furious Assault",
+                    "id": "6fc8-4511-8b83-300e",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**^^Adeptus Astartes^^ INFANTRY** unit only. Melee weapons equipped by models in this unit have the [SUSTAINED HITS 1] ability, except against **MONSTER** and **VEHICLE** units.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Tactical Brethren Enhancements",
+            "id": "1939-8a4e-7c80-2a9e",
+            "hidden": false,
+            "constraints": [
+              {"id": "acfc-b4dd-9a47-d490", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "id": "5af5-9653-aa17-9982",
+                    "childId": "4948-b231-3bc0-eaa3",
+                    "childName": "Tactical Brethren",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "lessThan",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Laurels of Vigilance",
+                "id": "9d8f-67aa-41f5-5055",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "4407-de40-bde5-fc0d",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 10},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Laurels of Vigilance",
+                    "id": "db5c-8181-10be-8942",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**^^Adeptus Astartes^^** model only. Once per battle round, when you target a friendly **^^Adeptus Astartes^^ BATTLELINE** unit within 12\" of the bearer with the Fire Overwatch or Heroic Intervention Stratagem, reduce the cost of that Stratagem by 1CP.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Tactical Insight",
+                "id": "e59c-41a3-4aa2-520d",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "d972-63d5-6083-ca40",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 15},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Tactical Insight",
+                    "id": "d18c-63bb-e818-f30b",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**CAPTAIN** model only. The Tactical Doctrine is always active for the bearer's unit, in addition to any other Combat Doctrine that is active for it.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Devastator Brethren Enhancements",
+            "id": "de08-5326-48f5-f258",
+            "hidden": false,
+            "constraints": [
+              {"id": "536e-fcc8-cf47-44d4", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "id": "6dfd-f653-6b04-22d0",
+                    "childId": "3b76-b70a-480b-ade3",
+                    "childName": "Devastator Brethren",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "lessThan",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Master-Forged Firearms",
+                "id": "f05d-41d6-911d-a8bb",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "1bcb-b75a-2ca1-993a",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 15},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Master-Forged Firearms",
+                    "id": "9e41-e2c5-9df5-1aca",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**^^Adeptus Astartes^^ INFANTRY** or **MOUNTED** model only. Ranged weapons equipped by the bearer (excluding Psychic weapons) have +1 Attack, +1 Strength and +1 Damage, and improve their Armour Penetration characteristic by 1.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Honour of Vigilance",
+                "id": "3f97-7979-f09e-f3d3",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "0537-b80c-7fc5-2f80",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 20},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Honour of Vigilance",
+                    "id": "d3ba-5900-c8a2-961b",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**^^Adeptus Astartes^^** model only. Ranged weapons equipped by models in the bearer's unit have the [LETHAL HITS] ability. While the Devastator Doctrine is active for the bearer's unit, that unit can re-roll Advance rolls.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Terminator Storm Force Enhancements",
+            "id": "80eb-b431-6bc9-8383",
+            "hidden": false,
+            "constraints": [
+              {"id": "3426-2b60-e2ab-2c13", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "id": "6b52-2a1e-472b-c254",
+                    "childId": "afe6-7909-c553-c46f",
+                    "childName": "Terminator Storm Force",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "lessThan",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Champion of the First Company",
+                "id": "9196-5e0f-0698-8c45",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "9cfc-90e8-12e4-0579",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 20},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Champion of the First Company",
+                    "id": "b481-a5e7-76fa-ba14",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**TERMINATOR** model only. Melee weapons equipped by models in the bearer's unit have the [LETHAL HITS] ability.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Corporeum Reliquary",
+                "id": "745e-13e6-3b75-2201",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "66a6-8c1d-4bf0-b52f",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 25},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Corporeum Reliquary",
+                    "id": "4228-bcd0-a914-1774",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**TERMINATOR** model only. In your first Movement phase, the bearer's unit can make an Ingress move.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Tacticus Attack Force Enhancements",
+            "id": "3fae-383e-293a-b6d8",
+            "hidden": false,
+            "constraints": [
+              {"id": "41ab-8725-b5fe-7dfb", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "id": "d995-4d81-6871-31ae",
+                    "childId": "b559-3bf0-25be-ae21",
+                    "childName": "Tacticus Attack Force",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "lessThan",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Martial Paragon",
+                "id": "b09a-5064-2bfd-e8ad",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "5959-3ebc-731e-fb78",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 10},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Martial Paragon",
+                    "id": "e3ab-d5cc-6edf-99eb",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**TACTICUS** model only. Each time the bearer's unit makes attacks, you can re-roll one Hit roll and one Wound roll.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Spearpoint War Leader",
+                "id": "28d6-5792-e650-9b2e",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "d357-e7df-c426-d128",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 15},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Spearpoint War Leader",
+                    "id": "ff46-fcf5-a800-e2e7",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**TACTICUS** model only. The bearer's unit has the Scouts 6\" ability.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Tacticus Firestorm Force Enhancements",
+            "id": "4950-dd43-7b16-f512",
+            "hidden": false,
+            "constraints": [
+              {"id": "5242-f12a-ae2b-8849", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "id": "4de3-c94b-bff0-f1e6",
+                    "childId": "299f-07fa-eac4-9241",
+                    "childName": "Tacticus Firestorm Force",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "lessThan",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Cyber-familiar",
+                "id": "b525-c436-7274-d685",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "1e38-acde-e94c-7f4f",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 15},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Cyber-familiar",
+                    "id": "780f-f705-8c17-772b",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**^^Adeptus Astartes^^** model only. After both players have deployed their armies, you can redeploy up to three units from your army. When doing so, you can place those units into Strategic Reserves.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Tempered in Battle",
+                "id": "0e68-6b58-04fa-bc0d",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "3b87-d8d0-434f-ed95",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 10},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Tempered in Battle",
+                    "id": "6da9-af98-0b80-41a8",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**^^Adeptus Astartes^^** model only. While a friendly **^^Adeptus Astartes^^** unit is within 6\" of the bearer, that unit can re-roll Leadership tests.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Phobos Shadow Force Enhancements",
+            "id": "1b57-5b98-eb37-5619",
+            "hidden": false,
+            "constraints": [
+              {"id": "6ef9-1813-f92b-f32f", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "id": "b250-1a6b-8856-423a",
+                    "childId": "9685-b3e6-4a39-d54c",
+                    "childName": "Phobos Shadow Force",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "lessThan",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Venator Omni-Auspex",
+                "id": "3e47-6e97-c9ed-6fc3",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "88e7-d097-45fe-9955",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 15},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Venator Omni-Auspex",
+                    "id": "8ba5-3380-8054-66f9",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**PHOBOS** model only. Each time a model in the bearer's unit makes an attack that targets a Hidden unit, you can re-roll a Wound roll of 1. While the Assault Doctrine is active for the bearer's unit, you can re-roll Wound rolls of 1 and 2 instead.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Execute and Redeploy",
+                "id": "efb2-c0d0-cbdf-0f35",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "45c4-2cb5-237d-78eb",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 25},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Execute and Redeploy",
+                    "id": "b177-310e-1041-5db3",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**PHOBOS** model only. In your Shooting phase, after the bearer's unit has shot, if it is not within Engagement Range of any enemy units, it can make a Normal move of up to 6\". It cannot declare a charge this turn.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Phobos Shock Force Enhancements",
+            "id": "4bcc-3de5-9c17-9692",
+            "hidden": false,
+            "constraints": [
+              {"id": "6b42-0ecf-20dc-ee6d", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "id": "c9b6-75a6-7b66-27b5",
+                    "childId": "7ac5-501a-c302-0364",
+                    "childName": "Phobos Shock Force",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "lessThan",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Seal of Shrouding",
+                "id": "b014-985f-1106-1085",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "3da7-5be3-49da-efc2",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 15},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Seal of Shrouding",
+                    "id": "510a-2165-539a-89dc",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**PHOBOS** model only. The bearer's unit cannot be selected as the target of attacks made using snap shooting.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Venator Omni-Auspex",
+                "id": "09f9-28e5-c238-33c1",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "583e-d76e-17a7-8df4",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 15},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Venator Omni-Auspex",
+                    "id": "3575-836d-9260-09d5",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**PHOBOS** model only. Each time a model in the bearer's unit makes an attack that targets a Hidden unit, you can re-roll a Wound roll of 1. While the Assault Doctrine is active for the bearer's unit, you can re-roll Wound rolls of 1 and 2 instead.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Gravis Linebreaker Force Enhancements",
+            "id": "42f5-eff2-1e03-9e40",
+            "hidden": false,
+            "constraints": [
+              {"id": "2547-ddbc-58fe-98a4", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "id": "e375-06ed-448d-59c4",
+                    "childId": "e3b4-3185-d96b-13ff",
+                    "childName": "Gravis Linebreaker Force",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "lessThan",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Indefatigable Fortitude",
+                "id": "23c8-0c05-5c9d-a213",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "c3c1-9157-5bbf-336f",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 20},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Indefatigable Fortitude",
+                    "id": "12c7-ea56-88f4-4ce9",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**GRAVIS** model only. Each time an attack targets the bearer's unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of that unit, subtract 1 from the Wound roll.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Relentless Advance",
+                "id": "2069-df31-4459-48d5",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "40d8-f70f-118b-7e27",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 20},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Relentless Advance",
+                    "id": "4a45-6924-6127-52e3",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**GRAVIS** model only. The bearer's unit has the Scouts 5\" ability.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Gravis Siege Force Enhancements",
+            "id": "032f-5f47-ce90-45fc",
+            "hidden": false,
+            "constraints": [
+              {"id": "9ed4-1b1b-3b6c-6321", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "id": "b445-6042-afc8-8085",
+                    "childId": "49c2-73f6-1193-cdc1",
+                    "childName": "Gravis Siege Force",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "lessThan",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Immovable Conquerors",
+                "id": "4769-c78b-199f-740f",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "ccf7-5fba-354b-e43d",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 3
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 15},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Immovable Conquerors",
+                    "id": "5478-17af-eb27-a94f",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**GRAVIS** unit only. This unit has +1 Objective Control.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Narthecis Gauntlet",
+                "id": "8c49-ac9a-9765-6a6f",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "289d-7d9d-a4dc-c1cc",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 20},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Narthecis Gauntlet",
+                    "id": "3504-4322-f782-132f",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**APOTHECARY BIOLOGIS** model only. In your Command phase, the bearer's unit regains D3+1 lost wounds.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Stormlance Task Force Enhancements",
+            "id": "72a6-5ade-5b34-3ddb",
+            "hidden": false,
+            "constraints": [
+              {"id": "f82c-7e2b-d432-0e8e", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "id": "8318-c543-bcf3-eef9",
+                    "childId": "f7b5-4c1b-2609-49d0",
+                    "childName": "Stormlance Task Force",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "lessThan",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Supercharged Engines",
+                "id": "36ea-1e5e-98d2-8f9d",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "d14a-5da2-6df9-13f0",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 3
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 0},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Supercharged Engines",
+                    "id": "4fc1-6b82-ccfd-e8c6",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**MOUNTED** unit only. This unit can re-roll Advance rolls.\n\n\n[POINTS UNKNOWN: the source printed \"Xpts\".]\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Auspex Triangulation Shrines",
+                "id": "77ce-76cf-4857-708a",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "3674-fae8-1ece-bd30",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 3
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 0},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Auspex Triangulation Shrines",
+                    "id": "90f3-1db3-ea96-0c3a",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**SPEEDER** unit only. At the start of your Shooting phase, select one enemy unit visible to this unit and within 12\". That unit has +3\" detection range.\n\n\n[POINTS UNKNOWN: the source printed \"Xpts\".]\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Ironclad Champions Enhancements",
+            "id": "d93d-6330-5b74-5bf8",
+            "hidden": false,
+            "constraints": [
+              {"id": "b3f3-dd78-f997-d50c", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "id": "039b-24a1-c6ed-302b",
+                    "childId": "4c7b-341e-d43b-cdcd",
+                    "childName": "Ironclad Champions",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "lessThan",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Artificer Sarcophogus",
+                "id": "1545-a17a-fe84-6d69",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "6c5d-2aba-2e16-2483",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 3
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 40},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Artificer Sarcophogus",
+                    "id": "6e45-2e50-8f27-26ff",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**DREADNOUGHT** unit only. Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Venerable Champion",
+                "id": "c626-3367-c6f0-30b5",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "8906-51d2-2f2c-8069",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 3
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 30},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Venerable Champion",
+                    "id": "30c2-0b48-df93-3111",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**DREADNOUGHT** unit only. While a friendly **^^Adeptus Astartes^^ INFANTRY** or **MOUNTED** unit is within 6\" of this model, each time a model in that unit makes an attack, you can re-roll a Hit roll of 1.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Gauntlet Task Force Enhancements",
+            "id": "2e07-683a-71f4-2590",
+            "hidden": false,
+            "constraints": [
+              {"id": "1c2b-55ed-8602-3723", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "id": "0aec-72bb-ea4b-5475",
+                    "childId": "c458-9e44-45fd-2c79",
+                    "childName": "Gauntlet Task Force",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "lessThan",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Linebreaker Onslaught",
+                "id": "4b9c-2fb2-c809-c97e",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "9dc7-f69e-7877-7dc5",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 20},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Linebreaker Onslaught",
+                    "id": "6b95-04f8-fccc-0b39",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**^^Adeptus Astartes^^ INFANTRY** model only. In a turn in which the bearer's unit disembarked, that unit can re-roll Charge rolls and cannot be selected as the target of attacks made using snap shooting.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Damocles-Class Uplink",
+                "id": "c8ff-a7de-d568-a283",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "4e92-a1c4-7013-7b9e",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 15},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Damocles-Class Uplink",
+                    "id": "849b-adf9-d049-8999",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**CAPTAIN** model only. While the bearer's unit is embarked within a **TRANSPORT**, at any point during your Movement phase you can select one friendly **^^Adeptus Astartes^^ INFANTRY** unit within 12\" of that **TRANSPORT**. One Combat Doctrine of your choice is active for that unit until the end of the phase.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Ironstorm Spearhead Enhancements",
+            "id": "9df5-508d-3c84-5363",
+            "hidden": false,
+            "constraints": [
+              {"id": "c6d1-c1d1-cf08-c446", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "id": "cc35-d035-a9f7-1b18",
+                    "childId": "9747-6259-881a-851b",
+                    "childName": "Ironstorm Spearhead",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "lessThan",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Redoubtable Machine Spirit",
+                "id": "f39c-a44f-3d5e-a174",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "fcdd-a523-e5ee-8b2f",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 3
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 25},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Redoubtable Machine Spirit",
+                    "id": "84e2-2fd1-d769-517e",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**TANK** unit only. This model has a 5+ invulnerable save and regains 1 lost wound at the start of your Command phase.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Gunnery Honours",
+                "id": "2d01-966a-3902-6976",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "c857-bfb3-ca23-cd50",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 3
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 15},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Gunnery Honours",
+                    "id": "313a-4c39-46fd-799c",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**TANK** unit only. Ranged weapons equipped by this model have the [HEAVY] ability.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Vow-sworn Crusaders Enhancements",
+            "id": "189e-f1b5-8f4c-7231",
+            "hidden": false,
+            "constraints": [
+              {"id": "8508-7cbf-c77c-0c86", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "id": "9499-8ab4-9569-7777",
+                    "childId": "748d-08ee-0ef4-09e9",
+                    "childName": "Vow-sworn Crusaders",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "lessThan",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Augury Servo-host",
+                "id": "03d0-6d75-68e2-da5b",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "0a7d-5c48-9738-44fd",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 20},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Augury Servo-host",
+                    "id": "29f2-1801-6187-7066",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**^^Adeptus Astartes^^** model only. In your Shooting phase, select one enemy unit visible to the bearer and within 18\". Until the end of the phase, that unit cannot have the benefit of cover.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Consecrating Aura",
+                "id": "d960-2234-df07-df00",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "9214-d055-9bd3-8408",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 20},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Consecrating Aura",
+                    "id": "fe97-a2da-5347-cf26",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**^^Adeptus Astartes^^** model only. Models in the bearer's unit have a 5+ invulnerable save.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Incendiary Animus",
+                "id": "fde6-036a-ccd5-5a20",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "9d94-370f-910f-e42f",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 25},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Incendiary Animus",
+                    "id": "b2ee-9fd5-246c-1786",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**CHAPLAIN** or **JUDICIAR** model only. Models in the bearer's unit have +1 Strength.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Zealous Vanguard",
+                "id": "c135-6829-77e5-08e1",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "3d55-3e73-57c2-bec3",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 25},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Zealous Vanguard",
+                    "id": "446e-3e16-5a27-ab4d",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**^^Adeptus Astartes^^** model only. The bearer's unit has the Scouts 6\" ability.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Fist of the God-Emperor Enhancements",
+            "id": "8ad9-5832-bca1-fd4b",
+            "hidden": false,
+            "constraints": [
+              {"id": "ffd7-5b72-c2e9-bc99", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "id": "00ea-3339-cdc1-809a",
+                    "childId": "a970-46ac-a3a2-5009",
+                    "childName": "Fist of the God-Emperor",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "lessThan",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Oathbound Exemplar",
+                "id": "c20e-584c-6201-77fd",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "d59f-04b2-b1e0-3b0d",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 10},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Oathbound Exemplar",
+                    "id": "50f2-6154-15c6-d4f0",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**^^Adeptus Astartes^^ INFANTRY** model only. The bearer's unit can perform Actions in a turn in which it Advanced or Fell Back.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Righteous Fervour",
+                "id": "319f-9c2a-afbd-1653",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "183a-5f0f-c88d-c710",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 3
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 15},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Righteous Fervour",
+                    "id": "473b-e7da-de2a-aeff",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**CRUSADER SQUAD** unit only. This unit can re-roll Advance rolls.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Marshal's Household Enhancements",
+            "id": "e656-75ab-d1ef-0439",
+            "hidden": false,
+            "constraints": [
+              {"id": "d59c-d731-2323-2d53", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+            ],
+            "modifiers": [
+              {
+                "field": "hidden",
+                "type": "set",
+                "value": true,
+                "conditions": [
+                  {
+                    "id": "263f-5d3e-d2a9-38b5",
+                    "childId": "4950-d1ff-1c8d-8add",
+                    "childName": "Marshal's Household",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "lessThan",
+                    "value": 1
+                  }
+                ]
+              }
+            ],
+            "selectionEntries": [
+              {
+                "name": "Fervent Exemplars",
+                "id": "fda1-e6df-b5e6-9aa0",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "bd42-b560-f4fb-b775",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 3
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 10},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Fervent Exemplars",
+                    "id": "a8d9-4fbe-a80f-adf7",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**SWORD BRETHREN SQUAD** unit only. This unit has +1 to Charge rolls.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Inheritors of Sigismund",
+                "id": "152d-9f6e-a085-2903",
+                "hidden": false,
+                "import": true,
+                "type": "upgrade",
+                "constraints": [
+                  {
+                    "id": "aab7-e02d-dd35-3fb7",
+                    "field": "selections",
+                    "includeChildForces": true,
+                    "includeChildSelections": true,
+                    "scope": "roster",
+                    "shared": true,
+                    "type": "max",
+                    "value": 1
+                  }
+                ],
+                "costs": [
+                  {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 15},
+                  {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
+                  {"name": "Crusade: Battle Honours", "typeId": "75bb-ded1-c86d-bdf0", "value": 0},
+                  {"name": "Crusade: Experience", "typeId": "a623-fe74-1d33-cddf", "value": 0},
+                  {"name": "Crusade: Weapon Modifications", "typeId": "716d-91b7-d55a-1022", "value": 0},
+                  {"name": "Blackstone Fragments", "typeId": "ac6b-ced3-9b5e-9a6e", "value": 0},
+                  {"name": "Detachment Points", "typeId": "82ae-1066-5107-6ae0", "value": null},
+                  {"name": "Enhancements", "typeId": "f759-1bc4-cb3a-f0d2", "value": 1},
+                  {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
+                  {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
+                ],
+                "profiles": [
+                  {
+                    "name": "Inheritors of Sigismund",
+                    "id": "69ff-621a-f39d-c8b7",
+                    "hidden": false,
+                    "typeId": "9cc3-6d83-4dd3-9b64",
+                    "typeName": "Abilities",
+                    "characteristics": [
+                      {
+                        "name": "Description",
+                        "$text": "**SWORD BRETHREN SQUAD** unit only. Models in this unit have the Fights First ability.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "typeId": "9b8f-694b-e5e-b573"
+                      }
+                    ]
                   }
                 ]
               }
