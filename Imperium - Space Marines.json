@@ -7,7 +7,7 @@
     "gameSystemId": "sys-352e-adc2-7639-d610",
     "gameSystemRevision": 1,
     "library": false,
-    "revision": 21,
+    "revision": 22,
     "type": "catalogue",
     "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
     "catalogueLinks": [
@@ -9380,7 +9380,7 @@
                         "id": "38-fca-2eb5-af1",
                         "hidden": false,
                         "import": true,
-                        "targetId": "6c7d-af5b-482-6fbe",
+                        "targetId": "3c06-5e81-1c2d-f2ea",
                         "type": "selectionEntry",
                         "entryLinks": [
                           {"name": "Weapon Modifications", "id": "1fde-9598-35d2-f61b", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
@@ -9409,7 +9409,7 @@
                     "collective": true,
                     "hidden": false,
                     "import": true,
-                    "targetId": "6c7d-af5b-482-6fbe",
+                    "targetId": "3c06-5e81-1c2d-f2ea",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "7631-2998-ef6d-dbb6", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -9491,7 +9491,7 @@
                     "collective": true,
                     "hidden": false,
                     "import": true,
-                    "targetId": "6c7d-af5b-482-6fbe",
+                    "targetId": "3c06-5e81-1c2d-f2ea",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "187a-045a-5df0-b974", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -10255,7 +10255,7 @@
                     "id": "8d70-2c33-7efa-ed0d",
                     "hidden": false,
                     "import": true,
-                    "targetId": "6c7d-af5b-482-6fbe",
+                    "targetId": "dc9e-8932-a3f6-e0ec",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "9f2e-b397-97fc-ff53", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -10313,7 +10313,7 @@
                     "id": "7f0f-2a09-8677-6cb1",
                     "hidden": false,
                     "import": true,
-                    "targetId": "6c7d-af5b-482-6fbe",
+                    "targetId": "dc9e-8932-a3f6-e0ec",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "9f2e-b397-97fc-ff53", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -11249,7 +11249,7 @@
                     "id": "350e-265a-1c74-d0ee",
                     "hidden": false,
                     "import": true,
-                    "targetId": "6c7d-af5b-482-6fbe",
+                    "targetId": "dc9e-8932-a3f6-e0ec",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "6570-2484-fa5d-9490", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -11332,7 +11332,7 @@
                     "id": "7406-d36e-10d5-fc0b",
                     "hidden": false,
                     "import": true,
-                    "targetId": "6c7d-af5b-482-6fbe",
+                    "targetId": "dc9e-8932-a3f6-e0ec",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "7af9-9a09-dbb0-7a4f", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -11448,7 +11448,7 @@
                     "id": "d13a-2ed1-2746-d933",
                     "hidden": false,
                     "import": true,
-                    "targetId": "6c7d-af5b-482-6fbe",
+                    "targetId": "dc9e-8932-a3f6-e0ec",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "6570-2484-fa5d-9490", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -11895,7 +11895,7 @@
                     "collective": true,
                     "hidden": false,
                     "import": true,
-                    "targetId": "6c7d-af5b-482-6fbe",
+                    "targetId": "dc9e-8932-a3f6-e0ec",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "7631-2998-ef6d-dbb6", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -11987,7 +11987,7 @@
                     "collective": true,
                     "hidden": false,
                     "import": true,
-                    "targetId": "6c7d-af5b-482-6fbe",
+                    "targetId": "dc9e-8932-a3f6-e0ec",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "7631-2998-ef6d-dbb6", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -14947,7 +14947,7 @@
                 ],
                 "selectionEntries": [
                   {
-                    "name": "Scout Sniper Rifle",
+                    "name": "Sniper Rifle",
                     "id": "58dc-bd5e-fe8-7bd",
                     "collective": false,
                     "hidden": false,
@@ -14963,7 +14963,7 @@
                     ],
                     "profiles": [
                       {
-                        "name": "Scout Sniper Rifle",
+                        "name": "Sniper Rifle",
                         "id": "48f8-6d7-84e8-1434",
                         "hidden": false,
                         "typeId": "f77d-b953-8fa4-b762",
@@ -14972,7 +14972,7 @@
                           {"name": "Range", "$text": "36\"", "typeId": "9896-9419-16a1-92fc"},
                           {"name": "A", "$text": "1", "typeId": "3bb-c35f-f54-fb08"},
                           {"name": "BS", "$text": "3+", "typeId": "94d-8a98-cf90-183e"},
-                          {"name": "S", "$text": "4", "typeId": "2229-f494-25db-c5d3"},
+                          {"name": "S", "$text": "5", "typeId": "2229-f494-25db-c5d3"},
                           {"name": "AP", "$text": "-2", "typeId": "9ead-8a10-520-de15"},
                           {"name": "D", "$text": "2", "typeId": "a354-c1c8-a745-f9e3"},
                           {"name": "Keywords", "$text": "Heavy, Precision", "typeId": "7f1b-8591-2fcf-d01c"}
@@ -17800,7 +17800,7 @@
                     "id": "ffc4-4456-a097-c83d",
                     "hidden": false,
                     "import": true,
-                    "targetId": "db5b-fe94-e50c-4f4b",
+                    "targetId": "f40e-efd0-849a-b022",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "a9f0-72e4-f88a-c812", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -17862,7 +17862,7 @@
                     "id": "ee77-c9ba-05cd-a769",
                     "hidden": false,
                     "import": true,
-                    "targetId": "db5b-fe94-e50c-4f4b",
+                    "targetId": "f40e-efd0-849a-b022",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "d006-beb2-6eef-aee2", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -18000,7 +18000,7 @@
                     "id": "9f53-e5ad-731f-a7e1",
                     "hidden": false,
                     "import": true,
-                    "targetId": "db5b-fe94-e50c-4f4b",
+                    "targetId": "f40e-efd0-849a-b022",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "023f-35cf-8918-a5e3", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -18087,7 +18087,7 @@
                     "id": "2d38-ef32-9e51-b7ae",
                     "hidden": false,
                     "import": true,
-                    "targetId": "db5b-fe94-e50c-4f4b",
+                    "targetId": "f40e-efd0-849a-b022",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "baaa-b010-2620-df9e", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -22889,7 +22889,7 @@
         ]
       },
       {
-        "name": "Twin Ironhail Heavy Stubber",
+        "name": "Ironhail Heavy Stubbers",
         "id": "1e6c-bd54-f166-edbc",
         "hidden": false,
         "import": true,
@@ -22900,19 +22900,19 @@
         ],
         "profiles": [
           {
-            "name": "Twin Ironhail Heavy Stubber",
+            "name": "Ironhail Heavy Stubbers",
             "id": "d066-efef-7153-fb0",
             "hidden": false,
             "typeId": "f77d-b953-8fa4-b762",
             "typeName": "Ranged Weapons",
             "characteristics": [
               {"name": "Range", "id": "cc70-8f3e-95ad-9161", "$text": "36\"", "hidden": false, "typeId": "9896-9419-16a1-92fc"},
-              {"name": "A", "id": "fac5-6c1c-c440-a282", "$text": "3", "hidden": false, "typeId": "3bb-c35f-f54-fb08"},
+              {"name": "A", "id": "fac5-6c1c-c440-a282", "$text": "6", "hidden": false, "typeId": "3bb-c35f-f54-fb08"},
               {"name": "BS", "id": "23d7-c35f-ef61-a176", "$text": "3+", "hidden": false, "typeId": "94d-8a98-cf90-183e"},
               {"name": "S", "id": "b8ba-ab1a-6e08-48cb", "$text": "4", "hidden": false, "typeId": "2229-f494-25db-c5d3"},
-              {"name": "AP", "id": "5e8f-a03a-ef70-3fc5", "$text": "0", "hidden": false, "typeId": "9ead-8a10-520-de15"},
+              {"name": "AP", "id": "5e8f-a03a-ef70-3fc5", "$text": "-1", "hidden": false, "typeId": "9ead-8a10-520-de15"},
               {"name": "D", "id": "5e7b-4828-50db-8264", "$text": "1", "hidden": false, "typeId": "a354-c1c8-a745-f9e3"},
-              {"name": "Keywords", "id": "e129-d198-f00f-fead", "$text": "Rapid Fire 3, Twin-linked", "hidden": false, "typeId": "7f1b-8591-2fcf-d01c"}
+              {"name": "Keywords", "id": "e129-d198-f00f-fead", "$text": "Rapid Fire 6", "hidden": false, "typeId": "7f1b-8591-2fcf-d01c"}
             ]
           }
         ]
@@ -24970,7 +24970,7 @@
                     ]
                   },
                   {
-                    "name": "Twin Storm Bolter",
+                    "name": "Storm Bolters",
                     "id": "1063-59-2a38-61fd",
                     "hidden": false,
                     "import": true,
@@ -24984,19 +24984,19 @@
                     ],
                     "profiles": [
                       {
-                        "name": "Twin Storm Bolter",
+                        "name": "Storm Bolters",
                         "id": "27cb-34a-cb99-600b",
                         "hidden": false,
                         "typeId": "f77d-b953-8fa4-b762",
                         "typeName": "Ranged Weapons",
                         "characteristics": [
                           {"name": "Range", "$text": "24\"", "typeId": "9896-9419-16a1-92fc"},
-                          {"name": "A", "$text": "2", "typeId": "3bb-c35f-f54-fb08"},
+                          {"name": "A", "$text": "4", "typeId": "3bb-c35f-f54-fb08"},
                           {"name": "BS", "$text": "3+", "typeId": "94d-8a98-cf90-183e"},
-                          {"name": "S", "$text": "4", "typeId": "2229-f494-25db-c5d3"},
-                          {"name": "AP", "$text": "0", "typeId": "9ead-8a10-520-de15"},
+                          {"name": "S", "$text": "5", "typeId": "2229-f494-25db-c5d3"},
+                          {"name": "AP", "$text": "-1", "typeId": "9ead-8a10-520-de15"},
                           {"name": "D", "$text": "1", "typeId": "a354-c1c8-a745-f9e3"},
-                          {"name": "Keywords", "$text": "Rapid Fire 2, Twin-linked", "typeId": "7f1b-8591-2fcf-d01c"}
+                          {"name": "Keywords", "$text": "Rapid Fire 4", "typeId": "7f1b-8591-2fcf-d01c"}
                         ]
                       }
                     ]
@@ -25916,7 +25916,7 @@
                         ]
                       },
                       {
-                        "name": "Brutalis Bolt Rifles",
+                        "name": "Bolt Rifles",
                         "id": "b8bc-cc4-1d6a-559e",
                         "hidden": false,
                         "import": true,
@@ -25931,7 +25931,7 @@
                         "infoLinks": [{"name": "Twin-linked", "id": "2243-bd57-978b-dccb", "hidden": false, "targetId": "cf93-ad4d-2f08-a79d", "type": "rule"}],
                         "profiles": [
                           {
-                            "name": "Brutalis Bolt Rifles",
+                            "name": "Bolt Rifles",
                             "id": "a8fd-bc3b-b629-e6a4",
                             "hidden": false,
                             "typeId": "f77d-b953-8fa4-b762",
@@ -25940,7 +25940,7 @@
                               {"name": "Range", "$text": "24\"", "typeId": "9896-9419-16a1-92fc"},
                               {"name": "A", "$text": "4", "typeId": "3bb-c35f-f54-fb08"},
                               {"name": "BS", "$text": "3+", "typeId": "94d-8a98-cf90-183e"},
-                              {"name": "S", "$text": "4", "typeId": "2229-f494-25db-c5d3"},
+                              {"name": "S", "$text": "5", "typeId": "2229-f494-25db-c5d3"},
                               {"name": "AP", "$text": "-1", "typeId": "9ead-8a10-520-de15"},
                               {"name": "D", "$text": "1", "typeId": "a354-c1c8-a745-f9e3"},
                               {"name": "Keywords", "$text": "Twin-linked", "typeId": "7f1b-8591-2fcf-d01c"}
@@ -27902,7 +27902,7 @@
                 "id": "c101-bec7-83f1-def7",
                 "hidden": false,
                 "import": true,
-                "targetId": "3f91-0cab-f770-21d9",
+                "targetId": "ab50-6bab-aac7-72e5",
                 "type": "selectionEntry",
                 "constraints": [
                   {"id": "52e3-3e13-fb51-4a03", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -31142,7 +31142,7 @@
                     "id": "e233-1e-eb66-12d4",
                     "hidden": false,
                     "import": true,
-                    "targetId": "6c7d-af5b-482-6fbe",
+                    "targetId": "dc9e-8932-a3f6-e0ec",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "4272-e561-dfef-272d", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -31333,7 +31333,7 @@
                     "id": "77a5-5272-c11c-53e7",
                     "hidden": false,
                     "import": true,
-                    "targetId": "6c7d-af5b-482-6fbe",
+                    "targetId": "dc9e-8932-a3f6-e0ec",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "4272-e561-dfef-272d", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -31826,7 +31826,7 @@
                 "id": "0146-f278-76e7-7217",
                 "hidden": false,
                 "import": true,
-                "targetId": "db5b-fe94-e50c-4f4b",
+                "targetId": "bcbd-594a-b072-26e2",
                 "type": "selectionEntry",
                 "constraints": [
                   {"id": "b152-19c8-ba5d-a78c", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -32174,7 +32174,7 @@
                 "id": "6e45-0e06-e49b-6d65",
                 "hidden": false,
                 "import": true,
-                "targetId": "db5b-fe94-e50c-4f4b",
+                "targetId": "bcbd-594a-b072-26e2",
                 "type": "selectionEntry",
                 "constraints": [
                   {"id": "7730-5dbc-12f9-0cc0", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -32613,7 +32613,7 @@
                 "id": "bbed-a1d6-8c2f-5d8e",
                 "hidden": false,
                 "import": true,
-                "targetId": "db5b-fe94-e50c-4f4b",
+                "targetId": "bcbd-594a-b072-26e2",
                 "type": "selectionEntry",
                 "constraints": [
                   {"id": "5f1d-ece6-6a07-f0ce", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -32659,7 +32659,7 @@
                 ]
               },
               {
-                "name": "Krakstorm Grenade Launcher",
+                "name": "Krakstorm Grenade Launchers",
                 "id": "d2e1-db01-99c3-c643",
                 "hidden": false,
                 "import": true,
@@ -32674,18 +32674,18 @@
                 ],
                 "profiles": [
                   {
-                    "name": "Krakstorm Grenade Launcher",
+                    "name": "Krakstorm Grenade Launchers",
                     "id": "71a-8ffa-6752-a714",
                     "hidden": false,
                     "typeId": "f77d-b953-8fa4-b762",
                     "typeName": "Ranged Weapons",
                     "characteristics": [
                       {"name": "Range", "$text": "18\"", "typeId": "9896-9419-16a1-92fc"},
-                      {"name": "A", "$text": "1", "typeId": "3bb-c35f-f54-fb08"},
+                      {"name": "A", "$text": "2", "typeId": "3bb-c35f-f54-fb08"},
                       {"name": "BS", "$text": "3+", "typeId": "94d-8a98-cf90-183e"},
                       {"name": "S", "$text": "9", "typeId": "2229-f494-25db-c5d3"},
                       {"name": "AP", "$text": "-1", "typeId": "9ead-8a10-520-de15"},
-                      {"name": "D", "$text": "D3", "typeId": "a354-c1c8-a745-f9e3"},
+                      {"name": "D", "$text": "2", "typeId": "a354-c1c8-a745-f9e3"},
                       {"name": "Keywords", "typeId": "7f1b-8591-2fcf-d01c"}
                     ]
                   }
@@ -33832,7 +33832,7 @@
                     "id": "67ab-26a0-66b8-5b73",
                     "hidden": false,
                     "import": true,
-                    "targetId": "6c7d-af5b-482-6fbe",
+                    "targetId": "dc9e-8932-a3f6-e0ec",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "3925-c214-19e6-d7da", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -33933,7 +33933,7 @@
                     "id": "b371-4025-ee17-f3d0",
                     "hidden": false,
                     "import": true,
-                    "targetId": "6c7d-af5b-482-6fbe",
+                    "targetId": "dc9e-8932-a3f6-e0ec",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "65c0-4759-df01-5a1d", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -34299,7 +34299,7 @@
                     "id": "b9c0-2a5c-2c7a-341d",
                     "hidden": false,
                     "import": true,
-                    "targetId": "6c7d-af5b-482-6fbe",
+                    "targetId": "dc9e-8932-a3f6-e0ec",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "50ff-fc8a-79dd-c9ec", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -34449,7 +34449,7 @@
                     "id": "13d5-b217-a0ab-50d6",
                     "hidden": false,
                     "import": true,
-                    "targetId": "6c7d-af5b-482-6fbe",
+                    "targetId": "dc9e-8932-a3f6-e0ec",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "50ff-fc8a-79dd-c9ec", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -36021,7 +36021,7 @@
                     "id": "3347-d200-6255-75e5",
                     "hidden": false,
                     "import": true,
-                    "targetId": "6c7d-af5b-482-6fbe",
+                    "targetId": "dc9e-8932-a3f6-e0ec",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "be52-ff8c-b895-cdc9", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -36165,7 +36165,7 @@
                     "id": "c798-f625-82c6-1104",
                     "hidden": false,
                     "import": true,
-                    "targetId": "6c7d-af5b-482-6fbe",
+                    "targetId": "dc9e-8932-a3f6-e0ec",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "be52-ff8c-b895-cdc9", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -37197,7 +37197,7 @@
                         "id": "27b8-78ad-d41c-a7ac",
                         "hidden": false,
                         "import": true,
-                        "targetId": "6c7d-af5b-482-6fbe",
+                        "targetId": "13ec-3125-bdfa-e7d7",
                         "type": "selectionEntry",
                         "constraints": [
                           {"id": "b857-151f-659f-b955", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -48221,7 +48221,7 @@
                         "collective": false,
                         "hidden": false,
                         "import": true,
-                        "targetId": "f3c7-067a-894a-cc3a",
+                        "targetId": "3e96-c7a8-c7ea-4259",
                         "type": "selectionEntry",
                         "entryLinks": [{"name": "Weapon Upgrades", "id": "3ea4-0ddf-f28a-c329", "hidden": false, "import": true, "targetId": "8cf2-a48c-58d2-cb4e", "type": "selectionEntryGroup"}]
                       },
@@ -49073,7 +49073,7 @@
                 ]
               },
               {
-                "name": "Paired Combat Blades",
+                "name": "Monomolecular Combat Blades",
                 "id": "5ac6-7220-3603-d78",
                 "hidden": false,
                 "import": true,
@@ -49087,19 +49087,19 @@
                 "infoLinks": [{"name": "Sustained Hits", "id": "80c6-b010-86f6-14ce", "hidden": false, "targetId": "1897-c22c-9597-12b1", "type": "rule"}],
                 "profiles": [
                   {
-                    "name": "Paired Combat Blades",
+                    "name": "Monomolecular Combat Blades",
                     "id": "f690-8a62-db9c-e131",
                     "hidden": false,
                     "typeId": "8a40-4aaa-c780-9046",
                     "typeName": "Melee Weapons",
                     "characteristics": [
                       {"name": "Range", "$text": "Melee", "typeId": "914c-b413-91e3-a132"},
-                      {"name": "A", "$text": "5", "typeId": "2337-daa1-6682-b110"},
+                      {"name": "A", "$text": "6", "typeId": "2337-daa1-6682-b110"},
                       {"name": "WS", "$text": "2+", "typeId": "95d1-95f-45b4-11d6"},
-                      {"name": "S", "$text": "4", "typeId": "ab33-d393-96ce-ccba"},
+                      {"name": "S", "$text": "5", "typeId": "ab33-d393-96ce-ccba"},
                       {"name": "AP", "$text": "-1", "typeId": "41a0-1301-112a-e2f2"},
                       {"name": "D", "$text": "1", "typeId": "3254-9fe6-d824-513e"},
-                      {"name": "Keywords", "$text": "Sustained Hits 1", "typeId": "893f-9000-ccf7-648e"}
+                      {"name": "Keywords", "$text": "Precision, Sustained Hits 1", "typeId": "893f-9000-ccf7-648e"}
                     ]
                   }
                 ]
@@ -55588,7 +55588,7 @@
                 "id": "c277-f63c-6a70-7172",
                 "hidden": false,
                 "import": true,
-                "targetId": "db5b-fe94-e50c-4f4b",
+                "targetId": "89b2-d6b1-7ee5-3746",
                 "type": "selectionEntry",
                 "constraints": [
                   {"id": "63f2-2556-f580-db7a", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -56136,7 +56136,7 @@
                         "id": "cd4f-2bdf-eeb1-a002",
                         "hidden": false,
                         "import": true,
-                        "targetId": "f3c7-067a-894a-cc3a",
+                        "targetId": "3e96-c7a8-c7ea-4259",
                         "type": "selectionEntry",
                         "constraints": [
                           {"id": "f95a-d65a-008d-1bde", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -56496,7 +56496,7 @@
                 "id": "40e5-ca50-a158-123d",
                 "hidden": false,
                 "import": true,
-                "targetId": "f3c7-067a-894a-cc3a",
+                "targetId": "0404-bc2c-c673-d0d4",
                 "type": "selectionEntry",
                 "constraints": [
                   {"id": "0e30-7076-1c90-4b26", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -71753,7 +71753,7 @@
                     "id": "fea4-9467-edac-bd2a",
                     "hidden": false,
                     "import": true,
-                    "targetId": "3f91-0cab-f770-21d9",
+                    "targetId": "1e62-b469-4e53-cf4d",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "431e-be6e-b81d-7a13-min", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -71946,7 +71946,7 @@
                     "id": "bb9e-ad8f-b6c8-5140",
                     "hidden": false,
                     "import": true,
-                    "targetId": "3f91-0cab-f770-21d9",
+                    "targetId": "1e62-b469-4e53-cf4d",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "0de9-aa00-a571-75c4", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -72053,7 +72053,7 @@
                     "id": "ded9-e7c3-003e-4cd6",
                     "hidden": false,
                     "import": true,
-                    "targetId": "3f91-0cab-f770-21d9",
+                    "targetId": "1e62-b469-4e53-cf4d",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "6b5b-7338-4377-4802", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -72507,7 +72507,7 @@
         ]
       },
       {
-        "name": "Master-crafted power weapon",
+        "name": "Master-crafted Power Sword",
         "id": "2b6b-56b9-13a8-3320",
         "collective": true,
         "comment": "A4 WS3+",
@@ -72520,7 +72520,7 @@
         ],
         "profiles": [
           {
-            "name": "Master-crafted power weapon",
+            "name": "Master-crafted Power Sword",
             "id": "5560-a207-ed07-fdb6",
             "hidden": false,
             "typeId": "8a40-4aaa-c780-9046",
@@ -72598,7 +72598,7 @@
         ]
       },
       {
-        "name": "Twin power fist",
+        "name": "Twin Power Fists",
         "id": "810a-85a0-2452-10b7",
         "collective": true,
         "hidden": false,
@@ -72611,7 +72611,7 @@
         "infoLinks": [{"name": "Twin-linked", "id": "899d-f11e-6192-3aab", "hidden": false, "targetId": "cf93-ad4d-2f08-a79d", "type": "rule"}],
         "profiles": [
           {
-            "name": "Twin power fist",
+            "name": "Twin Power Fists",
             "id": "a776-4966-6429-2c97",
             "hidden": false,
             "typeId": "8a40-4aaa-c780-9046",
@@ -73362,14 +73362,14 @@
         ]
       },
       {
-        "name": "Repulsor Defensive Array",
+        "name": "Defensive Array",
         "id": "1eaa-6dc9-f8bb-9c4a",
         "hidden": false,
         "import": true,
         "type": "upgrade",
         "profiles": [
           {
-            "name": "Repulsor Defensive Array",
+            "name": "Defensive Array",
             "id": "3b1f-86b4-781c-636d",
             "hidden": false,
             "typeId": "f77d-b953-8fa4-b762",
@@ -73378,8 +73378,8 @@
               {"name": "Range", "$text": "24\"", "typeId": "9896-9419-16a1-92fc"},
               {"name": "A", "$text": "18", "typeId": "3bb-c35f-f54-fb08"},
               {"name": "BS", "$text": "3+", "typeId": "94d-8a98-cf90-183e"},
-              {"name": "S", "$text": "4", "typeId": "2229-f494-25db-c5d3"},
-              {"name": "AP", "$text": "0", "typeId": "9ead-8a10-520-de15"},
+              {"name": "S", "$text": "5", "typeId": "2229-f494-25db-c5d3"},
+              {"name": "AP", "$text": "-1", "typeId": "9ead-8a10-520-de15"},
               {"name": "D", "$text": "1", "typeId": "a354-c1c8-a745-f9e3"},
               {"name": "Keywords", "typeId": "7f1b-8591-2fcf-d01c"}
             ]
@@ -77646,7 +77646,7 @@
                     "id": "1cec-239f-d7e7-81f8",
                     "hidden": false,
                     "import": true,
-                    "targetId": "6c7d-af5b-482-6fbe",
+                    "targetId": "dc9e-8932-a3f6-e0ec",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "7a2c-1659-49e8-fe73-min", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -77715,7 +77715,7 @@
                     "id": "1a92-7099-957d-381e",
                     "hidden": false,
                     "import": true,
-                    "targetId": "6c7d-af5b-482-6fbe",
+                    "targetId": "dc9e-8932-a3f6-e0ec",
                     "type": "selectionEntry",
                     "constraints": [
                       {"id": "01c1-f504-4bed-ffc8-min", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -77804,7 +77804,7 @@
             "id": "9851-e299-31ca-8e78",
             "hidden": false,
             "import": true,
-            "targetId": "db5b-fe94-e50c-4f4b",
+            "targetId": "bcbd-594a-b072-26e2",
             "type": "selectionEntry",
             "constraints": [
               {"id": "3cfa-57b1-2b76-ea15-min", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "min", "value": 1},
@@ -78935,6 +78935,293 @@
                 ],
                 "entryLinks": [{"name": "Weapon Upgrades", "id": "e66c-1912-5bd6-3491", "hidden": false, "import": true, "targetId": "8cf2-a48c-58d2-cb4e", "type": "selectionEntryGroup"}]
               }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ceramite Fists",
+        "id": "3e96-c7a8-c7ea-4259",
+        "comment": "A5 WS2+",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "categoryLinks": [
+          {"name": "Melee Weapon", "id": "d197-02df-3aaa-c52a", "hidden": false, "primary": false, "targetId": "ccdd-3987-11ed-90cd"}
+        ],
+        "profiles": [
+          {
+            "name": "Ceramite Fists",
+            "id": "da26-d581-a92f-c76f",
+            "hidden": false,
+            "typeId": "8a40-4aaa-c780-9046",
+            "typeName": "Melee Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "Melee", "typeId": "914c-b413-91e3-a132"},
+              {"name": "A", "$text": "5", "typeId": "2337-daa1-6682-b110"},
+              {"name": "WS", "$text": "2+", "typeId": "95d1-95f-45b4-11d6"},
+              {"name": "S", "$text": "5", "typeId": "ab33-d393-96ce-ccba"},
+              {"name": "AP", "$text": "0", "typeId": "41a0-1301-112a-e2f2"},
+              {"name": "D", "$text": "1", "typeId": "3254-9fe6-d824-513e"},
+              {"name": "Keywords", "typeId": "893f-9000-ccf7-648e", "$text": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Relics of Battle",
+        "id": "0404-bc2c-c673-d0d4",
+        "comment": "A5 WS2+",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "categoryLinks": [
+          {"name": "Melee Weapon", "id": "4336-ea1e-6a74-01f7", "hidden": false, "primary": false, "targetId": "ccdd-3987-11ed-90cd"}
+        ],
+        "profiles": [
+          {
+            "name": "Relics of Battle",
+            "id": "ac92-eb8a-565b-64ea",
+            "hidden": false,
+            "typeId": "8a40-4aaa-c780-9046",
+            "typeName": "Melee Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "Melee", "typeId": "914c-b413-91e3-a132"},
+              {"name": "A", "$text": "4", "typeId": "2337-daa1-6682-b110"},
+              {"name": "WS", "$text": "3+", "typeId": "95d1-95f-45b4-11d6"},
+              {"name": "S", "$text": "5", "typeId": "ab33-d393-96ce-ccba"},
+              {"name": "AP", "$text": "-2", "typeId": "41a0-1301-112a-e2f2"},
+              {"name": "D", "$text": "2", "typeId": "3254-9fe6-d824-513e"},
+              {"name": "Keywords", "typeId": "893f-9000-ccf7-648e", "$text": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Servo-armature",
+        "id": "89b2-d6b1-7ee5-3746",
+        "comment": "A4 WS3+",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "categoryLinks": [
+          {"name": "Melee Weapon", "id": "94c5-543a-e0f7-1ba5", "hidden": false, "primary": false, "targetId": "ccdd-3987-11ed-90cd"}
+        ],
+        "profiles": [
+          {
+            "name": "Servo-armature",
+            "id": "402b-053c-53b7-729e",
+            "hidden": false,
+            "typeId": "8a40-4aaa-c780-9046",
+            "typeName": "Melee Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "Melee", "typeId": "914c-b413-91e3-a132"},
+              {"name": "A", "$text": "4", "typeId": "2337-daa1-6682-b110"},
+              {"name": "WS", "$text": "3+", "typeId": "95d1-95f-45b4-11d6"},
+              {"name": "S", "$text": "5", "typeId": "ab33-d393-96ce-ccba"},
+              {"name": "AP", "$text": "0", "typeId": "41a0-1301-112a-e2f2"},
+              {"name": "D", "$text": "1", "typeId": "3254-9fe6-d824-513e"},
+              {"name": "Keywords", "typeId": "893f-9000-ccf7-648e", "$text": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ceramite Fists",
+        "id": "f40e-efd0-849a-b022",
+        "comment": "A4 WS3+",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "categoryLinks": [
+          {"name": "Melee Weapon", "id": "b43d-6f27-4f7b-aadc", "hidden": false, "primary": false, "targetId": "ccdd-3987-11ed-90cd"}
+        ],
+        "profiles": [
+          {
+            "name": "Ceramite Fists",
+            "id": "ef7e-50f2-c7ea-c8ec",
+            "hidden": false,
+            "typeId": "8a40-4aaa-c780-9046",
+            "typeName": "Melee Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "Melee", "typeId": "914c-b413-91e3-a132"},
+              {"name": "A", "$text": "4", "typeId": "2337-daa1-6682-b110"},
+              {"name": "WS", "$text": "3+", "typeId": "95d1-95f-45b4-11d6"},
+              {"name": "S", "$text": "5", "typeId": "ab33-d393-96ce-ccba"},
+              {"name": "AP", "$text": "0", "typeId": "41a0-1301-112a-e2f2"},
+              {"name": "D", "$text": "1", "typeId": "3254-9fe6-d824-513e"},
+              {"name": "Keywords", "typeId": "893f-9000-ccf7-648e", "$text": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Armoured Impact",
+        "id": "bcbd-594a-b072-26e2",
+        "comment": "A4 WS3+",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "categoryLinks": [
+          {"name": "Melee Weapon", "id": "9423-7907-45bb-4743", "hidden": false, "primary": false, "targetId": "ccdd-3987-11ed-90cd"}
+        ],
+        "profiles": [
+          {
+            "name": "Armoured Impact",
+            "id": "7711-1de4-fb15-4fbd",
+            "hidden": false,
+            "typeId": "8a40-4aaa-c780-9046",
+            "typeName": "Melee Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "Melee", "typeId": "914c-b413-91e3-a132"},
+              {"name": "A", "$text": "3", "typeId": "2337-daa1-6682-b110"},
+              {"name": "WS", "$text": "4+", "typeId": "95d1-95f-45b4-11d6"},
+              {"name": "S", "$text": "6", "typeId": "ab33-d393-96ce-ccba"},
+              {"name": "AP", "$text": "0", "typeId": "41a0-1301-112a-e2f2"},
+              {"name": "D", "$text": "1", "typeId": "3254-9fe6-d824-513e"},
+              {"name": "Keywords", "typeId": "893f-9000-ccf7-648e", "$text": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Combat Knife",
+        "id": "1e62-b469-4e53-cf4d",
+        "comment": "A5 WS3+",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "profiles": [
+          {
+            "name": "Combat Knife",
+            "id": "4cd1-fa46-f843-6cc6",
+            "hidden": false,
+            "typeId": "8a40-4aaa-c780-9046",
+            "typeName": "Melee Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "Melee", "typeId": "914c-b413-91e3-a132"},
+              {"name": "A", "$text": "5", "typeId": "2337-daa1-6682-b110"},
+              {"name": "WS", "$text": "3+", "typeId": "95d1-95f-45b4-11d6"},
+              {"name": "S", "$text": "5", "typeId": "ab33-d393-96ce-ccba"},
+              {"name": "AP", "$text": "-1", "typeId": "41a0-1301-112a-e2f2"},
+              {"name": "D", "$text": "1", "typeId": "3254-9fe6-d824-513e"},
+              {"name": "Keywords", "typeId": "893f-9000-ccf7-648e", "$text": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Armoured Impact",
+        "id": "ab50-6bab-aac7-72e5",
+        "comment": "A5 WS3+",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "profiles": [
+          {
+            "name": "Armoured Impact",
+            "id": "f2ca-349c-5819-2317",
+            "hidden": false,
+            "typeId": "8a40-4aaa-c780-9046",
+            "typeName": "Melee Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "Melee", "typeId": "914c-b413-91e3-a132"},
+              {"name": "A", "$text": "4", "typeId": "2337-daa1-6682-b110"},
+              {"name": "WS", "$text": "3+", "typeId": "95d1-95f-45b4-11d6"},
+              {"name": "S", "$text": "5", "typeId": "ab33-d393-96ce-ccba"},
+              {"name": "AP", "$text": "0", "typeId": "41a0-1301-112a-e2f2"},
+              {"name": "D", "$text": "1", "typeId": "3254-9fe6-d824-513e"},
+              {"name": "Keywords", "typeId": "893f-9000-ccf7-648e", "$text": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Knives and Fists",
+        "id": "3c06-5e81-1c2d-f2ea",
+        "collective": true,
+        "comment": "A3 WS 3+ Collective",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "categoryLinks": [
+          {"name": "Melee Weapon", "id": "f45d-7969-8f08-885f", "hidden": false, "primary": false, "targetId": "ccdd-3987-11ed-90cd"}
+        ],
+        "profiles": [
+          {
+            "name": "Knives and Fists",
+            "id": "d364-e796-5e8f-7442",
+            "hidden": false,
+            "typeId": "8a40-4aaa-c780-9046",
+            "typeName": "Melee Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "Melee", "typeId": "914c-b413-91e3-a132"},
+              {"name": "A", "$text": "3", "typeId": "2337-daa1-6682-b110"},
+              {"name": "WS", "$text": "3+", "typeId": "95d1-95f-45b4-11d6"},
+              {"name": "S", "$text": "5", "typeId": "ab33-d393-96ce-ccba"},
+              {"name": "AP", "$text": "0", "typeId": "41a0-1301-112a-e2f2"},
+              {"name": "D", "$text": "1", "typeId": "3254-9fe6-d824-513e"},
+              {"name": "Keywords", "typeId": "893f-9000-ccf7-648e", "$text": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ceramite Fists",
+        "id": "dc9e-8932-a3f6-e0ec",
+        "collective": true,
+        "comment": "A3 WS 3+ Collective",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "categoryLinks": [
+          {"name": "Melee Weapon", "id": "d4be-04f2-2b9b-7415", "hidden": false, "primary": false, "targetId": "ccdd-3987-11ed-90cd"}
+        ],
+        "profiles": [
+          {
+            "name": "Ceramite Fists",
+            "id": "939a-3dc1-7359-bc4e",
+            "hidden": false,
+            "typeId": "8a40-4aaa-c780-9046",
+            "typeName": "Melee Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "Melee", "typeId": "914c-b413-91e3-a132"},
+              {"name": "A", "$text": "3", "typeId": "2337-daa1-6682-b110"},
+              {"name": "WS", "$text": "3+", "typeId": "95d1-95f-45b4-11d6"},
+              {"name": "S", "$text": "5", "typeId": "ab33-d393-96ce-ccba"},
+              {"name": "AP", "$text": "0", "typeId": "41a0-1301-112a-e2f2"},
+              {"name": "D", "$text": "1", "typeId": "3254-9fe6-d824-513e"},
+              {"name": "Keywords", "typeId": "893f-9000-ccf7-648e", "$text": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hovering Bulk",
+        "id": "13ec-3125-bdfa-e7d7",
+        "collective": true,
+        "comment": "A3 WS 3+ Collective",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "categoryLinks": [
+          {"name": "Melee Weapon", "id": "4d2c-9062-8162-dcf1", "hidden": false, "primary": false, "targetId": "ccdd-3987-11ed-90cd"}
+        ],
+        "profiles": [
+          {
+            "name": "Hovering Bulk",
+            "id": "b2ea-cc85-d6e3-3a25",
+            "hidden": false,
+            "typeId": "8a40-4aaa-c780-9046",
+            "typeName": "Melee Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "Melee", "typeId": "914c-b413-91e3-a132"},
+              {"name": "A", "$text": "3", "typeId": "2337-daa1-6682-b110"},
+              {"name": "WS", "$text": "3+", "typeId": "95d1-95f-45b4-11d6"},
+              {"name": "S", "$text": "5", "typeId": "ab33-d393-96ce-ccba"},
+              {"name": "AP", "$text": "0", "typeId": "41a0-1301-112a-e2f2"},
+              {"name": "D", "$text": "1", "typeId": "3254-9fe6-d824-513e"},
+              {"name": "Keywords", "typeId": "893f-9000-ccf7-648e", "$text": ""}
             ]
           }
         ]
