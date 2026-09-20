@@ -7,7 +7,7 @@
     "gameSystemId": "sys-352e-adc2-7639-d610",
     "gameSystemRevision": 1,
     "library": false,
-    "revision": 20,
+    "revision": 21,
     "type": "catalogue",
     "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
     "catalogueLinks": [
@@ -7356,20 +7356,6 @@
         ],
         "profiles": [
           {
-            "name": "Master of Deceit",
-            "id": "2d39-4b7-eecd-9111",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "After both players have deployed their armies, if your army includes one or more models with this ability, you can select up to three friendly ADEPTUS ASTARTES INFANTRY units and redeploy all of those units. When doing so, any of those units can be placed into Strategic Reserves, regardless of how many units are already in Strategic Reserves.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
             "name": "Leader",
             "id": "707b-cbab-54ac-96eb",
             "hidden": false,
@@ -9106,34 +9092,6 @@
         ],
         "profiles": [
           {
-            "name": "Objective Secured",
-            "id": "1164-3aff-c9a6-718d",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "If you control an objective marker at the end of your Command phase and this unit is within range of that objective marker, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
-            "name": "Hail of Bolts",
-            "id": "4207-56a0-b930-84bd",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "In your Shooting phase, when this unit is selected to shoot, select up to one visible enemy unit. While making those attacks, this unit’s Bolt Rifle attacks that targeted that enemy unit have +2 A",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
             "name": "Bolter Discipline",
             "id": "c5d0-3454-ef8c-0851",
             "hidden": false,
@@ -10232,20 +10190,6 @@
         ],
         "profiles": [
           {
-            "name": "Incendiary Terror",
-            "id": "b3c7-e6c3-c500-616a",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "In your Shooting phase, after this unit has shot, you can select one enemy Infantry unit hit by one or more of those attacks made with a pyreblaster. That enemy unit must take a Battle-shock test, subtracting 1 from that test.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
             "name": "Driven from Cover",
             "id": "6b26-578c-4d32-7227",
             "hidden": false,
@@ -10746,20 +10690,6 @@
           }
         ],
         "profiles": [
-          {
-            "name": "Shock Assault",
-            "id": "f80a-70bd-e9d-3452",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "Each time a model in this unit targets an enemy unit with a melee attack, re-roll a Wound roll of 1. If that enemy unit is within range of an objective marker, you can re-roll the Wound roll instead.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
           {
             "name": "Targeted Intercession",
             "id": "7bc7-87db-3058-fa6a",
@@ -12409,20 +12339,6 @@
           }
         ],
         "profiles": [
-          {
-            "name": "Multi-spectrum Array",
-            "id": "19f7-84bb-8aca-b2de",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "In your Shooting phase, after this unit has shot, select one enemy unit that was hit by one or more attacks made by this unit this phase. Until the end of the phase, each time a friendly Adeptus Astartes unit makes an attack that targets that enemy unit, add 1 to the Hit roll.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
           {
             "name": "Divinator-class Auspexes (Once per phase, per unit)",
             "id": "beba-1388-11c8-e7da",
@@ -14435,20 +14351,6 @@
           }
         ],
         "profiles": [
-          {
-            "name": "Guerrilla Tactics",
-            "id": "2e18-73a0-a8ca-130d",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "At the end of your opponent’s turn, if this unit is more than 6\" away from all enemy models, you can remove this unit from the battlefield and place it into\nStrategic Reserves.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
           {
             "name": "Flexible Asset",
             "id": "89d7-2c23-0b65-975d",
@@ -17850,20 +17752,6 @@
         ],
         "profiles": [
           {
-            "name": "Sternguard Focus",
-            "id": "f7ef-79f2-60c-8568",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "Each time a model in this unit makes an attack that targets your Oath of Moment Target, you can re-roll the wound roll",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
             "name": "Veteran Marksmen",
             "id": "2a61-04d7-6022-cd99",
             "hidden": false,
@@ -19083,20 +18971,6 @@
           }
         ],
         "profiles": [
-          {
-            "name": "Close-quarters Firepower",
-            "id": "f948-3939-520a-6b26",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "Each time a model in this unit makes a ranged attack that targets the closest eligible target, improve the Armour Penetration characteristic of that attack\nby 1.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
           {
             "name": "Close-quarters Firestorm",
             "id": "674b-de51-b81b-5a84",
@@ -23295,20 +23169,6 @@
               {"name": "LD", "$text": "6+", "typeId": "58d2-b879-49c7-43bc"},
               {"name": "OC", "$text": "4", "typeId": "bef7-942a-1a23-59f8"},
               {"name": "InSv", "$text": "", "typeId": "55a7-5b54-c60d-11dc"}
-            ]
-          },
-          {
-            "name": "Combat Support",
-            "id": "e58e-7a39-e2bd-a58b",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "Once per turn, in your opponent’s Shooting phase, when a friendly Adeptus Astartes Phobos Infantry unit within 6\" of this model is selected as the target of an attack, this model can use this ability. If it does, after that enemy model’s unit has finished making its attacks, this model can shoot as if it were your Shooting phase, but when resolving those attacks it can only target that enemy unit (and only if it is an eligible target).",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
             ]
           },
           {
@@ -27986,39 +27846,6 @@
             ]
           },
           {
-            "name": "Outrider Escort",
-            "id": "e845-dd69-ee7c-5661",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "Once per turn, in your opponent's Shooting phase, when another friendly ^^Adeptus Astartes Mounted^^ unit within 6\" of this model is selected as the target of an attack, one model from your army with this ability can use it. If it does, after that enemy unit has finished making its attacks, that model can shoot as if it were your Shooting phase , but when resolving those attacks it can only target that enemy unit [and only if it is an eligible target).",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ],
-            "modifiers": [
-              {
-                "field": "hidden",
-                "type": "set",
-                "value": true,
-                "conditions": [
-                  {
-                    "id": "2f57-de87-1dc2-9a97",
-                    "childId": "1402-5be-5df3-cd51",
-                    "field": "selections",
-                    "includeChildSelections": true,
-                    "scope": "ancestor",
-                    "shared": true,
-                    "type": "instanceOf",
-                    "value": 1
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "name": "Aggressive Reconnaissance",
             "id": "aa5b-c59a-189b-248f",
             "hidden": false,
@@ -28494,20 +28321,6 @@
           }
         ],
         "profiles": [
-          {
-            "name": "Thunderous Impact",
-            "id": "b4bd-e247-b596-4db2",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "Each time a model in this unit makes a melee attack, if this unit made a Charge move this turn, improve the Strength and Damage characteristics of that attack by 1",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
           {
             "name": "Full-throttle Assault",
             "id": "bc6b-2bd7-9472-3907",
@@ -33982,20 +33795,6 @@
         ],
         "profiles": [
           {
-            "name": "For the Chapter!",
-            "id": "3b11-6884-cf0b-a5bf",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "Each time a model in this unit is destroyed, roll one D6: on a 3+, do not remove it from play. The destroyed model can shoot after the attacking model’s unit has finished making its attacks, and is then removed from play. When resolving these attacks, any Hazardous tests taken for that attack are automatically passed.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
             "name": "Rites of Thermal Appeasement",
             "id": "9ab1-a0d7-051c-def5",
             "hidden": false,
@@ -34452,34 +34251,6 @@
           }
         ],
         "profiles": [
-          {
-            "name": "Reposition Under Covering Fire",
-            "id": "d2ad-d0a2-4079-f902",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "In your Shooting phase, after this unit has shot, if it contains an Eliminator Sergeant equipped with an instigator bolt carbine, this unit can make a\nNormal move. If it does so, until the end of the turn, this unit is not eligible to declare a charge.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
-            "name": "Mark the Target",
-            "id": "bda1-520a-6fd7-c422",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "Each time this unit Remains Stationary, until the start of your next Movement phase, ranged weapons equipped by models in this unit have the [DEVASTATING WOUNDS] ability.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
           {
             "name": "Chameleoline Cloaks",
             "id": "86ee-c3e1-bc1a-7773",
@@ -39808,20 +39579,6 @@
             ]
           },
           {
-            "name": "Aqullon Optics",
-            "id": "5cd2-7b68-d2cb-e7e4",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "Each time this model is selected to shoot, you can re-roll one Hit roll, you can re-roll one Wound roll and you can re-roll one Damage roll when resolving its attacks",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
             "name": "Aquilon Optics",
             "id": "57a4-0188-7cd8-d4c2",
             "hidden": false,
@@ -40285,20 +40042,6 @@
             ]
           },
           {
-            "name": "Rotating Death",
-            "id": "59fa-d89c-5b6e-83a7",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "This model’s twin heavy onslaught gatling cannon has the [SUSTAINED HITS 2] ability when targeting Infantry units.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
             "name": "Reaping Tally",
             "id": "0e36-deb8-f3ad-ac7b",
             "hidden": false,
@@ -40712,20 +40455,6 @@
               {"name": "LD", "$text": "6+", "typeId": "58d2-b879-49c7-43bc"},
               {"name": "OC", "$text": "3", "typeId": "bef7-942a-1a23-59f8"},
               {"name": "InSv", "$text": "", "typeId": "55a7-5b54-c60d-11dc"}
-            ]
-          },
-          {
-            "name": "Ferocious Assault",
-            "id": "242a-a6a9-4900-b4c6",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "Each time this model makes an attack with its twin las-talon that targets the closest eligible Monster or Vehicle unit, add 1 to the Hit roll",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
             ]
           },
           {
@@ -42988,20 +42717,6 @@
             ]
           },
           {
-            "name": "Emergency Combat Embarkation",
-            "id": "be1c-1cd0-5306-55d7",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "Once per turn, in your opponent’s Charge phase, after an enemy unit has selected targets for its charge but before it makes a Charge move, you can select one Adeptus Astartes unit from your army that was selected as a target of that charge. Provided that unit is not within Engagement Range of any enemy units and every model in that unit is within 3\" of this Transport, it can embark within this Transport. The charging unit can then select new targets for its charge.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
             "name": "Combat Embarkation",
             "id": "24c7-7c00-a292-5360",
             "hidden": false,
@@ -44079,14 +43794,6 @@
             ]
           },
           {
-            "name": "Self Repair",
-            "id": "3e49-3cf5-3c78-1850",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [{"name": "Description", "$text": "At the end of your Command phase, this model regains 1 lost wound.", "typeId": "9b8f-694b-e5e-b573"}]
-          },
-          {
             "name": "Transport",
             "id": "2972-5c28-2bce-827",
             "hidden": false,
@@ -44871,20 +44578,6 @@
             ]
           },
           {
-            "name": "Assault Vehicle",
-            "id": "aa73-4cca-5285-aa",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "Units can disembark from this Transport after it has Advanced. Units that do so count as having made a Normal move, and cannot declare a charge that turn.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
             "name": "Rapid Disembarkation",
             "id": "2c9c-e6b2-666e-5d0b",
             "hidden": false,
@@ -45402,20 +45095,6 @@
               {
                 "name": "Description",
                 "$text": "This model has a transport capacity of 12 Adeptus Astartes Infantry models. It cannot transport Jump Pack, Wulfen, Gravis, Centurion or Terminator models.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
-            "name": "Combat Disembarkation",
-            "id": "07a4-673e-7ec8-2fb5",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "Each time a unit disembarks from this model after it has been set up on the battlefield, that unit is still eligible to declare a charge this turn",
                 "typeId": "9b8f-694b-e5e-b573"
               }
             ]
@@ -49302,20 +48981,6 @@
             ]
           },
           {
-            "name": "Strategic Dispersal",
-            "id": "eec8-a500-c73f-95d7",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "In your Shooting phase, after this model’s unit has shot, if it is not within Engagement Range of any enemy models, it can make a Normal move of up to  6\". If it does, until the end of the turn, that unit is not eligible to declare a charge.’",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
             "name": "Support",
             "id": "6071-4e16-eb0f-63a6",
             "hidden": false,
@@ -49893,14 +49558,6 @@
             ]
           },
           {
-            "name": "Mental Fortress [Psychic]",
-            "id": "bb55-61bd-98d2-9b40",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [{"name": "Description", "$text": "While this model is leading a unit, models in that unit have a 4+ invulnerable save.", "typeId": "9b8f-694b-e5e-b573"}]
-          },
-          {
             "name": "Leader",
             "id": "fbef-6d32-361e-9163",
             "hidden": false,
@@ -50440,20 +50097,6 @@
         ],
         "profiles": [
           {
-            "name": "Shrouding [Psychic]",
-            "id": "3f4a-63fb-254-9364",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "While this model is leading a unit, models in that unit have the Stealth ability and that unit cannot be targeted by ranged attacks unless the attacking\nmodel is within 12\".",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
             "name": "Librarian in Phobos Armor",
             "id": "c911-97d4-97e8-59b6",
             "hidden": false,
@@ -50869,20 +50512,6 @@
           }
         ],
         "profiles": [
-          {
-            "name": "Veil of Time [Psychic]",
-            "id": "31b2-e5b4-c863-9992",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "While this model is leading a unit, weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
           {
             "name": "Librarian in Terminator Armor",
             "id": "f929-c63a-4613-80cf",
@@ -52325,20 +51954,6 @@
         ],
         "profiles": [
           {
-            "name": "Recitation of Faith",
-            "id": "e92-f61-1c8f-4af6",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against mortal wounds.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
             "name": "Chaplain in Terminator Armour",
             "id": "9144-bb3-ae06-708",
             "hidden": false,
@@ -53740,34 +53355,6 @@
             ]
           },
           {
-            "name": "Blessing of the Omnissiah",
-            "id": "b4c1-7511-e999-2538",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "In your Command phase, you can select one friendly Adeptus Astartes Vehicle model within 3\" of this model. That model regains up to D3 lost wounds and, until the start of your next Command phase, each time that Vehicle model makes an attack, add 1 to the Hit roll. Each model can only be selected for this ability once per turn.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
-            "name": "Vengeance of the Omnissiah",
-            "id": "6bc9-9c39-2271-1f1e",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "If a friendly Adeptus Astartes Vehicle model is destroyed within 12\" of this model, until the end of the battle, this model’s Omnissian power axe has an\nAttacks characteristic of 7.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
             "name": "Leader",
             "id": "237c-15f3-c241-2ae1",
             "hidden": false,
@@ -54591,20 +54178,6 @@
             ]
           },
           {
-            "name": "Priority Objective Identified",
-            "id": "2288-75ee-5b84-2775",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "At the start of the first battle round, if your army includes one or more models with this ability, you can select one objective marker on the battlefield. Until the end of the battle, while one or more models with this ability are on the battlefield, each time a friendly ADEPTUS ASTARTES model makes an attack that targets an enemy unit that is within range of that objective marker, re-roll a Wound roll of 1.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
             "name": "Evade and Survive",
             "id": "6c2b-dfc3-89ab-e9ff",
             "hidden": false,
@@ -54617,14 +54190,6 @@
                 "typeId": "9b8f-694b-e5e-b573"
               }
             ]
-          },
-          {
-            "name": "Lone Survivor",
-            "id": "83b0-5817-564d-d92b",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [{"name": "Description", "$text": "This model cannot be selected to be your **^^Warlord^^**.", "typeId": "9b8f-694b-e5e-b573"}]
           },
           {
             "name": "Priority Target Identified (Once per battle, per unit)",
@@ -55603,14 +55168,6 @@
             ]
           },
           {
-            "name": "Gene Seed Recovery",
-            "id": "1826-b313-9e4f-57c",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [{"name": "Description", "$text": "When this model’s Bodyguard unit is destroyed, roll one D6: on a 2+, you gain 1CP.", "typeId": "9b8f-694b-e5e-b573"}]
-          },
-          {
             "name": "Support",
             "id": "a19-ea12-9d03-65c4",
             "hidden": false,
@@ -55979,34 +55536,6 @@
               {"name": "LD", "$text": "6+", "typeId": "58d2-b879-49c7-43bc"},
               {"name": "OC", "$text": "1", "typeId": "bef7-942a-1a23-59f8"},
               {"name": "InSv", "$text": "", "typeId": "55a7-5b54-c60d-11dc"}
-            ]
-          },
-          {
-            "name": "Surgical Precision",
-            "id": "a06d-1a78-a0e3-8b0d",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
-            "name": "Vivispectrum",
-            "id": "739f-7ad5-5b0f-cd36",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "If this model’s unit destroys an enemy unit as the result of a melee attack, until the end of the battle, this model has an Objective Control characteristic of 9.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
             ]
           },
           {
@@ -56501,20 +56030,6 @@
             ]
           },
           {
-            "name": "Unbreakable Duty",
-            "id": "29e1-1525-b058-e9ad",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "While this model is within range of an objective marker and/or within 6\" of the centre of the battlefield, this model has the Feel No Pain 4+ ability.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
             "name": "Support",
             "id": "d9f5-17f1-fc0c-cb61",
             "hidden": false,
@@ -56918,20 +56433,6 @@
             ]
           },
           {
-            "name": "Deeds of Heroism",
-            "id": "80e9-b186-e4ce-2ae5",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "Once per battle, when this model is selected to fight, it can use this ability. If it does, until the end of the phase, add 1 to the Attacks characteristic of melee weapons equipped by models in this model’s unit",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
             "name": "Support",
             "id": "16d0-eff3-f5d2-a2cf",
             "hidden": false,
@@ -57332,20 +56833,6 @@
                 "type": "increment",
                 "value": 1,
                 "conditions": [{"childId": "5ad9-2fe2-f5ad-3bcf", "field": "selections", "includeChildSelections": true, "scope": "parent", "shared": true, "type": "atLeast", "value": 1}]
-              }
-            ]
-          },
-          {
-            "name": "Keep the Banner High",
-            "id": "15d8-f178-3876-42f5",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll if that unit is below its Starting Strength, and add 1 to the Wound roll as well if that unit is Below Half-strength",
-                "typeId": "9b8f-694b-e5e-b573"
               }
             ]
           },
@@ -59182,20 +58669,6 @@
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
             "characteristics": [{"name": "Description", "$text": "This unit has **Fights First**.", "typeId": "9b8f-694b-e5e-b573"}]
-          },
-          {
-            "name": "Silent Fury",
-            "id": "81e6-9c44-9af6-e6a5",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "Each time this model destroys an enemy Character model, until the end of the battle, add 1 to the Attacks characteristic of its executioner relic blade.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
           },
           {
             "name": "*Invulnerable Save",
@@ -72205,20 +71678,6 @@
         ],
         "profiles": [
           {
-            "name": "Ancient Banner",
-            "id": "9ced-4a20-1c04-203d",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "While this unit contains an Ancient, add 1 to the Objective Control characteristic of models in this unit",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
-            ]
-          },
-          {
             "name": "Command Squad",
             "id": "cb97-8ee0-1cbf-e38f",
             "hidden": false,
@@ -78132,20 +77591,6 @@
               {"name": "LD", "$text": "6+", "typeId": "58d2-b879-49c7-43bc"},
               {"name": "OC", "$text": "1", "typeId": "bef7-942a-1a23-59f8"},
               {"name": "InSv", "$text": "", "typeId": "55a7-5b54-c60d-11dc"}
-            ]
-          },
-          {
-            "name": "Overlapping Detonations",
-            "id": "d807-18e3-a046-aca5",
-            "hidden": false,
-            "typeId": "9cc3-6d83-4dd3-9b64",
-            "typeName": "Abilities",
-            "characteristics": [
-              {
-                "name": "Description",
-                "$text": "In your Shooting phase, when this unit is selected to shoot you can select one non-**MONSTER/VEHICLE** enemy unit visible to it. While making attacks, this unit’s heavy bolters that targeted that selected unit have **[BLAST 1]**.",
-                "typeId": "9b8f-694b-e5e-b573"
-              }
             ]
           },
           {
