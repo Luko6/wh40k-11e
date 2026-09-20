@@ -7,7 +7,7 @@
     "gameSystemId": "sys-352e-adc2-7639-d610",
     "gameSystemRevision": 1,
     "library": false,
-    "revision": 18,
+    "revision": 19,
     "type": "catalogue",
     "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
     "catalogueLinks": [
@@ -80820,7 +80820,7 @@
               {
                 "name": "Codex Discipline",
                 "id": "02e6-2018-5808-b003",
-                "description": "You can select one Combat Doctrine for a second time during the battle. (Normally, each Combat Doctrine can only be selected once per battle.)\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "description": "You can select one **combat doctrine** one additional time per battle.",
                 "hidden": false
               }
             ]
@@ -80855,7 +80855,7 @@
               {
                 "name": "Assault Mastery",
                 "id": "b977-22f0-a6f8-2cf7",
-                "description": "You can select the Assault Doctrine one additional time during the battle.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "description": "You can select the **assault doctrine** one additional time per battle.",
                 "hidden": false
               }
             ]
@@ -80890,7 +80890,7 @@
               {
                 "name": "Tactical Mastery",
                 "id": "0725-b794-4280-ea83",
-                "description": "You can select the Tactical Doctrine one additional time during the battle.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "description": "You can select the **tactical doctrine** one additional time per battle.",
                 "hidden": false
               }
             ]
@@ -80925,7 +80925,7 @@
               {
                 "name": "Devastator Mastery",
                 "id": "dd5d-f5a3-3baa-5d05",
-                "description": "You can select the Devastator Doctrine one additional time during the battle.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "description": "You can select the **devastator doctrine** one additional time per battle.",
                 "hidden": false
               }
             ]
@@ -80960,7 +80960,7 @@
               {
                 "name": "Death Blow",
                 "id": "b33a-b249-56a1-4365",
-                "description": "**TERMINATOR** units from your army have +1 to Charge rolls.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "description": "Friendly **^^Adeptus Astartes^^ TERMINATOR** units have +1 to **charge rolls**.",
                 "hidden": false
               }
             ]
@@ -80995,7 +80995,7 @@
               {
                 "name": "Wrath of the Chapter",
                 "id": "d92d-b893-4e12-76c8",
-                "description": "**TACTICUS** units from your army can re-roll Advance rolls.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "description": "Friendly **TACTICUS** units can re-roll **advance rolls**.",
                 "hidden": false
               }
             ]
@@ -81028,9 +81028,9 @@
             ],
             "rules": [
               {
-                "name": "Codex Fire-Patterns",
+                "name": "Codex Fire-patterns",
                 "id": "425a-b5a3-6d4f-0385",
-                "description": "Each time a **TACTICUS** unit from your army makes a ranged attack with a weapon that has the [RAPID FIRE] ability, that ability applies at any range, not only when the target is within half range.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "description": "Friendly **TACTICUS** units' **[RAPID FIRE]** attacks benefit from **[RAPID FIRE]** when targeting units up to that attack's maximum range.",
                 "hidden": false
               }
             ]
@@ -81065,7 +81065,7 @@
               {
                 "name": "Shadow Masters",
                 "id": "6584-98cc-a25d-0f1b",
-                "description": "After a **PHOBOS** or **SCOUT SQUAD** unit from your army shoots, select one of the following:\n\n\n- That unit Remains Hidden.\n\n\n- That unit makes a Normal move of up to D6\". It cannot declare a charge this turn.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "description": "When a friendly **PHOBOS** or **SCOUT SQUAD** unit has shot:\n- Those attacks do not prevent that unit from being **hidden**.\n- Or: That unit can make a **normal move** of up to D6\". That unit is *not* **eligible to declare a charge** until the end of the turn.",
                 "hidden": false
               }
             ]
@@ -81100,7 +81100,7 @@
               {
                 "name": "Vanguard Ambushers",
                 "id": "0ea0-d63d-5f6d-a528",
-                "description": "At the end of your Movement phase, each Hidden **PHOBOS** unit from your army can re-roll Wound rolls of 1 until the end of the turn.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "description": "At the end of your Movement phase, if a friendly **PHOBOS** unit is **hidden**, that unit's attacks can re-roll **wound rolls** of 1 until the end of the turn.",
                 "hidden": false
               }
             ]
@@ -81135,7 +81135,7 @@
               {
                 "name": "Walking Fortress",
                 "id": "dc69-ebd8-62d3-82d8",
-                "description": "Each time a **GRAVIS** unit from your army makes a Normal move, until the end of the turn ranged weapons equipped by models in that unit lose the [HEAVY] ability and that unit has +1 to Hit rolls when making ranged attacks.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "description": "In a turn a friendly **GRAVIS** unit made a **normal move**, that unit's ranged attacks:\n- Do not have **[HEAVY]**.\n- Have +1 to **hit rolls**.",
                 "hidden": false
               }
             ]
@@ -81170,7 +81170,7 @@
               {
                 "name": "Indomitable Defence",
                 "id": "c732-7db2-1a8d-e77d",
-                "description": "Each time an attack targets a **GRAVIS** unit from your army while that unit is within range of an objective marker, if the Strength characteristic of that attack is greater than the Toughness characteristic of that unit, subtract 1 from the Wound roll.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "description": "While a friendly **GRAVIS** unit is within range of an **objective**, attacks that target that unit with a **S** greater than that unit's **T** have -1 to **wound rolls**.",
                 "hidden": false
               }
             ]
@@ -81203,9 +81203,9 @@
             ],
             "rules": [
               {
-                "name": "Lightning-Fast Strike",
+                "name": "Lightning-fast Strike",
                 "id": "d8b5-9903-18e7-70af",
-                "description": "**MOUNTED** and **SPEEDER** units from your army have +2\" Move.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "description": "Friendly **ADEPTUS ASTARTES MOUNTED/SPEEDER** units have +2\" **M**.",
                 "hidden": false
               }
             ]
@@ -81240,7 +81240,7 @@
               {
                 "name": "Enduring Vengeance",
                 "id": "74e4-98bf-785b-a604",
-                "description": "Each time a **DREADNOUGHT** model from your army makes an attack, you can re-roll a Hit roll of 1.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "description": "Friendly **^^Adeptus Astartes^^ DREADNOUGHT** units can re-roll **hit rolls** of 1.",
                 "hidden": false
               }
             ]
@@ -81275,7 +81275,7 @@
               {
                 "name": "Combined Deployment",
                 "id": "a160-32db-3a82-5167",
-                "description": "Each time a **TRANSPORT** model from your army shoots, after those attacks have been resolved, you can select one enemy unit that was hit by them. That unit is Assailed until the end of the turn. Each time an **^^Adeptus Astartes^^** unit from your army that disembarked this turn makes an attack that targets an Assailed unit, that attack has the [SUSTAINED HITS 1] ability.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "description": "In your Shooting phase, when a friendly **^^Adeptus Astartes^^ TRANSPORT** unit has shot, you can select one enemy unit hit by those attacks. That enemy unit is **assailed** until the end of the turn:\n- While a unit is **assailed**, when an **^^Adeptus Astartes^^** unit that disembarked this turn targets that unit, those attacks have **[SUSTAINED HITS 1]**.",
                 "hidden": false
               }
             ]
@@ -81308,9 +81308,9 @@
             ],
             "rules": [
               {
-                "name": "Ironstorm Auto-Targeters",
+                "name": "Ironstorm Auto-targeters",
                 "id": "8e50-d318-902d-c052",
-                "description": "Each time a **VEHICLE** model from your army shoots, you can re-roll one Hit roll and one Wound roll.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                "description": "Friendly **^^Adeptus Astartes^^ VEHICLE** units' (excluding **WALKER** units) ranged attacks can:\n- Re-roll *one* **hit roll**.\n- Re-roll *one* **wound roll**.",
                 "hidden": false
               }
             ]
@@ -92429,7 +92429,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**^^Adeptus Astartes^^ ANCIENT** model only. The bearer has +1 Objective Control and the Feel No Pain 5+ ability. Once per battle, at the start of any phase, the bearer's unit has +1 Attack until the end of that phase.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**ANCIENT** model only. This model has:\n- +1 **OC** and **Ld**.\n- **Feel No Pain 5+**.\n- The following ability:\n  - *Ancient Exhortation (Once per battle, per army):* When this unit is **selected to fight**, you can use this ability. If you do, this unit's melee attacks have +1 **A** until the end of the phase.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -92476,7 +92476,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**^^Adeptus Astartes^^** model only. Melee weapons equipped by the bearer have +1 Strength and improve their Armour Penetration characteristic by 1. While the Assault Doctrine is active for the bearer's unit, increase this to +2 Strength and improve Armour Penetration by 2 instead.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**^^Adeptus Astartes^^** model only. This model's melee attacks have:\n- +1 **S** and **AP**.\n- Or: If the **assault doctrine** is active for this unit, +2 **S** and **AP**.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -92523,7 +92523,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**CAPTAIN** model only. The Tactical Doctrine is always active for the bearer's unit, in addition to any other Combat Doctrine that is active for it.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**CAPTAIN** model only. The **tactical doctrine** is active for this unit *in addition* to any other **combat doctrine**.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -92570,7 +92570,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**^^Adeptus Astartes^^** model only. The bearer has a Save characteristic of 2+ and the Feel No Pain 5+ ability.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**^^Adeptus Astartes^^** model only. This model has:\n- 2+ **Sv**.\n- **Feel No Pain 5+**.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -92648,7 +92648,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**^^Adeptus Astartes^^** model only. The bearer is equipped with the following melee weapon: Imperium's Sword — A6, WS2+, S7, AP-3, D3.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**^^Adeptus Astartes^^** model only. This model has the following weapon:\n\nImperium's Sword — Melee, A6, WS2+, S7, AP-3, D3",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -92695,7 +92695,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**^^Adeptus Astartes^^ INFANTRY** unit only. Melee weapons equipped by models in this unit have the [SUSTAINED HITS 1] ability, except against **MONSTER** and **VEHICLE** units.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**^^Adeptus Astartes^^ INFANTRY** unit only. This unit's melee attacks have **[SUSTAINED HITS 1: non-MONSTER/VEHICLE]**.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -92773,7 +92773,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**^^Adeptus Astartes^^** model only. Once per battle round, when you target a friendly **^^Adeptus Astartes^^ BATTLELINE** unit within 12\" of the bearer with the Fire Overwatch or Heroic Intervention Stratagem, reduce the cost of that Stratagem by 1CP.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**^^Adeptus Astartes^^** model only.\n(Once per battle round, per army) When you use the **Fire Overwatch/Heroic Intervention stratagem**, if you target a friendly **^^Adeptus Astartes^^ BATTLELINE** unit within 12\" of this model with that **stratagem**, that use is -1 CP.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -92820,7 +92820,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**CAPTAIN** model only. The Tactical Doctrine is always active for the bearer's unit, in addition to any other Combat Doctrine that is active for it.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**CAPTAIN** model only. The **tactical doctrine** is active for this unit *in addition* to any other **combat doctrine**.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -92859,7 +92859,7 @@
             ],
             "selectionEntries": [
               {
-                "name": "Master-Forged Firearms",
+                "name": "Master-forged Firearms",
                 "id": "f05d-41d6-911d-a8bb",
                 "hidden": false,
                 "import": true,
@@ -92890,7 +92890,7 @@
                 ],
                 "profiles": [
                   {
-                    "name": "Master-Forged Firearms",
+                    "name": "Master-forged Firearms",
                     "id": "9e41-e2c5-9df5-1aca",
                     "hidden": false,
                     "typeId": "9cc3-6d83-4dd3-9b64",
@@ -92898,7 +92898,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**^^Adeptus Astartes^^ INFANTRY** or **MOUNTED** model only. Ranged weapons equipped by the bearer (excluding Psychic weapons) have +1 Attack, +1 Strength and +1 Damage, and improve their Armour Penetration characteristic by 1.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**ADEPTUS ASTARTES INFANTRY/MOUNTED** model only. This model's ranged attacks (excluding **[PSYCHIC]** attacks) have +1 **A**, **S**, **AP** and **D**.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -92945,7 +92945,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**^^Adeptus Astartes^^** model only. Ranged weapons equipped by models in the bearer's unit have the [LETHAL HITS] ability. While the Devastator Doctrine is active for the bearer's unit, that unit can re-roll Advance rolls.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**^^Adeptus Astartes^^** model only.\n- This unit's ranged attacks have **[LETHAL HITS]**.\n- If the **devastator doctrine** is active for this unit, this unit can re-roll **advance rolls**.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -93023,7 +93023,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**TERMINATOR** model only. Melee weapons equipped by models in the bearer's unit have the [LETHAL HITS] ability.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**^^Adeptus Astartes^^ TERMINATOR** model only. This unit's melee attacks have **[LETHAL HITS]**.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -93070,7 +93070,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**TERMINATOR** model only. In your first Movement phase, the bearer's unit can make an Ingress move.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**^^Adeptus Astartes^^ TERMINATOR** model only. In your first Movement phase, this unit can make an **ingress move**.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -93148,7 +93148,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**TACTICUS** model only. Each time the bearer's unit makes attacks, you can re-roll one Hit roll and one Wound roll.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**TACTICUS** model only. This unit's attacks can:\n- Re-roll *one* **hit roll**.\n- Re-roll *one* **wound roll**.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -93195,7 +93195,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**TACTICUS** model only. The bearer's unit has the Scouts 6\" ability.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**TACTICUS** model only. This unit has **Scouts 6\"**.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -93273,7 +93273,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**^^Adeptus Astartes^^** model only. After both players have deployed their armies, you can redeploy up to three units from your army. When doing so, you can place those units into Strategic Reserves.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**TACTICUS** model only. When both players have deployed their armies, you can redeploy up to three friendly **^^Adeptus Astartes^^ INFANTRY** units. When doing so, you can set those units up in **strategic reserves**, regardless of how many units are already in **strategic reserves**.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -93281,7 +93281,7 @@
                 ]
               },
               {
-                "name": "Tempered in Battle",
+                "name": "Tempered in Battle (Aura)",
                 "id": "0e68-6b58-04fa-bc0d",
                 "hidden": false,
                 "import": true,
@@ -93312,7 +93312,7 @@
                 ],
                 "profiles": [
                   {
-                    "name": "Tempered in Battle",
+                    "name": "Tempered in Battle (Aura)",
                     "id": "6da9-af98-0b80-41a8",
                     "hidden": false,
                     "typeId": "9cc3-6d83-4dd3-9b64",
@@ -93320,7 +93320,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**^^Adeptus Astartes^^** model only. While a friendly **^^Adeptus Astartes^^** unit is within 6\" of the bearer, that unit can re-roll Leadership tests.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**TACTICUS** model only. Friendly **^^Adeptus Astartes^^** units within 6\" of this model can re-roll **leadership rolls**.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -93359,7 +93359,7 @@
             ],
             "selectionEntries": [
               {
-                "name": "Venator Omni-Auspex",
+                "name": "Venator Omni-auspex",
                 "id": "3e47-6e97-c9ed-6fc3",
                 "hidden": false,
                 "import": true,
@@ -93390,7 +93390,7 @@
                 ],
                 "profiles": [
                   {
-                    "name": "Venator Omni-Auspex",
+                    "name": "Venator Omni-auspex",
                     "id": "8ba5-3380-8054-66f9",
                     "hidden": false,
                     "typeId": "9cc3-6d83-4dd3-9b64",
@@ -93398,7 +93398,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**PHOBOS** model only. Each time a model in the bearer's unit makes an attack that targets a Hidden unit, you can re-roll a Wound roll of 1. While the Assault Doctrine is active for the bearer's unit, you can re-roll Wound rolls of 1 and 2 instead.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**PHOBOS** model only. This unit's attacks that target a **hidden** unit can:\n- Re-roll **wound rolls** of 1.\n- Or: If the **assault doctrine** is active for this unit, re-roll **wound rolls** of 1 and 2.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -93445,7 +93445,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**PHOBOS** model only. In your Shooting phase, after the bearer's unit has shot, if it is not within Engagement Range of any enemy units, it can make a Normal move of up to 6\". It cannot declare a charge this turn.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**PHOBOS** model only. In your Shooting phase, after this unit has shot, if this unit is **unengaged**, this unit can make a **normal move** of up to 6\". If it does, this unit is *not* **eligible to declare a charge** until the end of the turn.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -93523,7 +93523,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**PHOBOS** model only. The bearer's unit cannot be selected as the target of attacks made using snap shooting.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**PHOBOS** model only. Enemy units cannot target this unit with **snap shooting** attacks.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -93531,7 +93531,7 @@
                 ]
               },
               {
-                "name": "Venator Omni-Auspex",
+                "name": "Venator Omni-auspex",
                 "id": "09f9-28e5-c238-33c1",
                 "hidden": false,
                 "import": true,
@@ -93562,7 +93562,7 @@
                 ],
                 "profiles": [
                   {
-                    "name": "Venator Omni-Auspex",
+                    "name": "Venator Omni-auspex",
                     "id": "3575-836d-9260-09d5",
                     "hidden": false,
                     "typeId": "9cc3-6d83-4dd3-9b64",
@@ -93570,7 +93570,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**PHOBOS** model only. Each time a model in the bearer's unit makes an attack that targets a Hidden unit, you can re-roll a Wound roll of 1. While the Assault Doctrine is active for the bearer's unit, you can re-roll Wound rolls of 1 and 2 instead.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**PHOBOS** model only. This unit's attacks that target a **hidden** unit can:\n- Re-roll **wound rolls** of 1.\n- Or: If the **assault doctrine** is active for this unit, re-roll **wound rolls** of 1-2.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -93648,7 +93648,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**GRAVIS** model only. Each time an attack targets the bearer's unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of that unit, subtract 1 from the Wound roll.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**GRAVIS** model only. Attacks that target this unit with a **S** greater than this unit's **T** have -1 to **wound rolls**.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -93695,7 +93695,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**GRAVIS** model only. The bearer's unit has the Scouts 5\" ability.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**GRAVIS** model only. This unit has **Scouts 5\"**.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -93773,7 +93773,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**GRAVIS** unit only. This unit has +1 Objective Control.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**GRAVIS** unit only. This unit has +1 **OC**.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -93820,7 +93820,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**APOTHECARY BIOLOGIS** model only. In your Command phase, the bearer's unit regains D3+1 lost wounds.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**APOTHECARY BIOLOGIS** model only. In your Command phase, this unit **heals** D3+1 wounds.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -93898,7 +93898,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**MOUNTED** unit only. This unit can re-roll Advance rolls.\n\n\n[POINTS UNKNOWN: the source printed \"Xpts\".]\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**^^Adeptus Astartes^^ MOUNTED** unit only. This unit can re-roll **advance rolls**.\n\n\n[POINTS UNKNOWN: not stated in the source used.]",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -93945,7 +93945,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**SPEEDER** unit only. At the start of your Shooting phase, select one enemy unit visible to this unit and within 12\". That unit has +3\" detection range.\n\n\n[POINTS UNKNOWN: the source printed \"Xpts\".]\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**^^Adeptus Astartes^^ SPEEDER** unit only. At the start of your Shooting phase, select one **visible** enemy unit within 12\" of this unit. That enemy unit is **spotted**:\n- While a unit is **spotted**, that unit has +3\" **detection range**.\n\n\n[POINTS UNKNOWN: not stated in the source used.]",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -93984,7 +93984,7 @@
             ],
             "selectionEntries": [
               {
-                "name": "Artificer Sarcophogus",
+                "name": "Artificer Sarcophagus",
                 "id": "1545-a17a-fe84-6d69",
                 "hidden": false,
                 "import": true,
@@ -94015,7 +94015,7 @@
                 ],
                 "profiles": [
                   {
-                    "name": "Artificer Sarcophogus",
+                    "name": "Artificer Sarcophagus",
                     "id": "6e45-2e50-8f27-26ff",
                     "hidden": false,
                     "typeId": "9cc3-6d83-4dd3-9b64",
@@ -94023,7 +94023,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**DREADNOUGHT** unit only. Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**DREADNOUGHT** unit only. Attacks that target this unit have -1 **D**.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -94031,7 +94031,7 @@
                 ]
               },
               {
-                "name": "Venerable Champion",
+                "name": "Venerable Champion (Aura)",
                 "id": "c626-3367-c6f0-30b5",
                 "hidden": false,
                 "import": true,
@@ -94062,7 +94062,7 @@
                 ],
                 "profiles": [
                   {
-                    "name": "Venerable Champion",
+                    "name": "Venerable Champion (Aura)",
                     "id": "30c2-0b48-df93-3111",
                     "hidden": false,
                     "typeId": "9cc3-6d83-4dd3-9b64",
@@ -94070,7 +94070,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**DREADNOUGHT** unit only. While a friendly **^^Adeptus Astartes^^ INFANTRY** or **MOUNTED** unit is within 6\" of this model, each time a model in that unit makes an attack, you can re-roll a Hit roll of 1.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**DREADNOUGHT** unit only. While a friendly **ADEPTUS ASTARTES INFANTRY/MOUNTED** unit is within 6\" of this unit, that unit's attacks can re-roll **hit rolls** of 1.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -94148,7 +94148,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**^^Adeptus Astartes^^ INFANTRY** model only. In a turn in which the bearer's unit disembarked, that unit can re-roll Charge rolls and cannot be selected as the target of attacks made using snap shooting.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**^^Adeptus Astartes^^ INFANTRY** model only. If this unit disembarked this turn:\n- This unit can re-roll **charge rolls**.\n- Enemy units cannot target this unit with **snap shooting** attacks.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -94156,7 +94156,7 @@
                 ]
               },
               {
-                "name": "Damocles-Class Uplink",
+                "name": "Damocles-class Uplink",
                 "id": "c8ff-a7de-d568-a283",
                 "hidden": false,
                 "import": true,
@@ -94187,7 +94187,7 @@
                 ],
                 "profiles": [
                   {
-                    "name": "Damocles-Class Uplink",
+                    "name": "Damocles-class Uplink",
                     "id": "849b-adf9-d049-8999",
                     "hidden": false,
                     "typeId": "9cc3-6d83-4dd3-9b64",
@@ -94195,7 +94195,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**CAPTAIN** model only. While the bearer's unit is embarked within a **TRANSPORT**, at any point during your Movement phase you can select one friendly **^^Adeptus Astartes^^ INFANTRY** unit within 12\" of that **TRANSPORT**. One Combat Doctrine of your choice is active for that unit until the end of the phase.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**CAPTAIN** model only. In your Movement phase, if this unit is embarked within a **TRANSPORT** unit, you can select one friendly **^^Adeptus Astartes^^ INFANTRY** unit within 6\" of that **TRANSPORT** unit and select one **combat doctrine**. That **combat doctrine** is active for that **INFANTRY** unit.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -94273,7 +94273,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**TANK** unit only. This model has a 5+ invulnerable save and regains 1 lost wound at the start of your Command phase.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**^^Adeptus Astartes^^ VEHICLE** unit only (excluding **DEDICATED TRANSPORT/FLY/WALKER** units). This unit:\n- Has 5+ **InSv**.\n- At the end of your Command phase, **heals** 1 wound.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
@@ -94320,7 +94320,7 @@
                     "characteristics": [
                       {
                         "name": "Description",
-                        "$text": "**TANK** unit only. Ranged weapons equipped by this model have the [HEAVY] ability.\n\n\n[PROVISIONAL: extrapolated from a review summary — replace with codex wording.]",
+                        "$text": "**^^Adeptus Astartes^^ VEHICLE** unit only (excluding **DEDICATED TRANSPORT/FLY/WALKER** units). This unit's ranged attacks have **[HEAVY]**.",
                         "typeId": "9b8f-694b-e5e-b573"
                       }
                     ]
